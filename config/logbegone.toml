@@ -1,0 +1,5 @@
+
+[logbegone]
+	regex = []
+	phrases = ["io error while handling a recipe"]
+

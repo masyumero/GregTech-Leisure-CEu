@@ -1,0 +1,9 @@
+# 开启永恒蓝梦和蓝梦主机合成表的注册，注意这可能会影响游戏平衡
+enableInfinityDreamAndDreamHostCrafting: false
+
+# 开启黑洞物质解压器实体渲染,当延迟过大时关闭此项
+enableBlackHoleMatterDecompressor: true
+
+# 开启超维度发电机
+enableHyperDimensionalPower: true
+

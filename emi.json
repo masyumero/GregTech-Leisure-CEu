@@ -1,0 +1,27 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:gtceu:annihilate_generator",
+    "item:gtceu:door_of_create",
+    "item:gtceu:eye_of_harmony",
+    "item:gtladditions:arcanic_astrograph",
+    "item:gtladditions:arcane_cache_vault",
+    "item:gtladditions:antientropy_condensation_center",
+    "item:gtladditions:lucid_etchdreamer",
+    "item:gtladditions:atomic_transmutation_core",
+    "item:gtladditions:astral_convergence_nexus",
+    "item:gtladditions:super_factory_mk2",
+    "item:gtl_extend:superfluid_general_energy_furnace",
+    "item:mae2a:pattern_modify_tool"
+  ],
+  "craft_history": [
+    "mae2a:pattern_modify_tool"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

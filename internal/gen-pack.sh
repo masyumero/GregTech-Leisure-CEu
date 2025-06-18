@@ -27,7 +27,7 @@ cp modrinth.index.json packtmp/
 
 echoerr packtmp/overridesディレクトリを構築
 mkdir packtmp/overrides/
-cp -r config/ kubejs/ ldlib/ defaultconfigs/ mods/ packtmp/overrides/
+cp -r config/ kubejs/ defaultconfigs/ mods/ packmenu/ packtmp/overrides/
 
 echoerr 既存のpackディレクトリを削除
 rm -rf pack/ || true

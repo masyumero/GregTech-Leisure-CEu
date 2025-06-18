@@ -12,20 +12,9 @@
         "sha512": "28427d88a1a7f2de215e76ac58a259869eb2f0e4a72d8503f2e575ca92d17f921f72ad23816e47be895112a6f4ef01d180c12b5708b3ae98707b060b170ae7e6"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/1897/471/UntranslatedItems-forge-1.20.1-1.7.jar"
+        "https://mediafilez.forgecdn.net/files/4711/897/UntranslatedItems-forge-1.20.1-1.7.jar"
       ],
       "fileSize":55155
-    },
-    {
-      "path": "mods/uti_afac-1.1.4+1.20.1-forge.jar",
-      "hashes": {
-        "sha1": "72b4ce4540e7cbca2a620e08af33295d53fba7f8",
-        "sha512": "e463d57172a783862ec696dc39e00a71a91d7d47a877ebd3467655f77029b565afc2dabbe48ba2c98d86a2ad81f1fbc2be7c9aed0f22161d95d2069f221ef697"
-      },
-      "downloads": [
-        "https://mediafilez.forgecdn.net/files/7931/649/uti_afac-1.1.4+1.20.1-forge.jar"
-      ],
-      "fileSize":69070
     },
     {
       "path": "mods/AdditionalEnchantedMiner-1.20.1-1201.1.121.jar",

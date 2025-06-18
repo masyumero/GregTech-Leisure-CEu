@@ -11,5 +11,5 @@
 		{ item: "gtceu:platinum_credit", weight: 10.0f }
 		{ item: "gtceu:gold_credit", weight: 10.0f }
 	]
-	title: "抽奖"
+	title: "{ftbquests.loot_table_6225023274141477362.title}"
 }

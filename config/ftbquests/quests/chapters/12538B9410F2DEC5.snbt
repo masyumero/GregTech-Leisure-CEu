@@ -34,7 +34,7 @@
 				"38D23D186C444492"
 				"5E9E2F25AE1EC731"
 			]
-			description: ["适合做生物研究"]
+			description: ["{ftbquests.chapter.12538B9410F2DEC5.quest1.description1}"]
 			id: "04B1D03A3FE114F1"
 			tasks: [
 				{
@@ -62,7 +62,7 @@
 				"52DF531AFB3A07CE"
 				"5D980DBF92017008"
 			]
-			description: ["更进一步"]
+			description: ["{ftbquests.chapter.12538B9410F2DEC5.quest2.description1}"]
 			id: "77759D1FE48F958B"
 			shape: "rsquare"
 			size: 2.0d
@@ -90,7 +90,7 @@
 		}
 		{
 			dependencies: ["503C03C654730F65"]
-			description: ["制作方式变了"]
+			description: ["{ftbquests.chapter.12538B9410F2DEC5.quest4.description1}"]
 			id: "051792ED136C96D0"
 			tasks: [{
 				id: "7DFA913411D706CB"
@@ -106,7 +106,7 @@
 			id: "503C03C654730F65"
 			tasks: [{
 				id: "67D7250ABEBDE5E2"
-				title: "细菌产线"
+				title: "{ftbquests.chapter.12538B9410F2DEC5.quest5.task_7482490033979385314.title}"
 				type: "checkmark"
 			}]
 			x: 6.0d
@@ -142,7 +142,7 @@
 		}
 		{
 			dependencies: ["46855799A4471E34"]
-			description: ["使用有机培养的干细胞与电子刺激相互作用，快速执行大规模计算。"]
+			description: ["{ftbquests.chapter.12538B9410F2DEC5.quest8.description1}"]
 			id: "425D7CD010B9C90E"
 			tasks: [{
 				id: "1C1B32F4B3E713A2"
@@ -215,7 +215,7 @@
 				"52DF531AFB3A07CE"
 				"6A59FA11D10C648A"
 			]
-			description: ["UV超导体"]
+			description: ["{ftbquests.chapter.12538B9410F2DEC5.quest14.description1}"]
 			id: "62D2B830A98424BB"
 			tasks: [{
 				id: "188D424E2FE3A663"
@@ -269,7 +269,7 @@
 		}
 		{
 			dependencies: ["0A2D46609F5C3CAB"]
-			description: ["更长，更快，无需有序"]
+			description: ["{ftbquests.chapter.12538B9410F2DEC5.quest18.description1}"]
 			id: "172FC2F2B20CD187"
 			shape: "rsquare"
 			size: 1.0d
@@ -283,7 +283,7 @@
 		}
 		{
 			dependencies: ["0A2D46609F5C3CAB"]
-			description: ["后面的电路装配线要使用"]
+			description: ["{ftbquests.chapter.12538B9410F2DEC5.quest19.description1}"]
 			id: "1385E89DD3FD663B"
 			tasks: [{
 				id: "68A5969FB9056BA3"
@@ -299,8 +299,8 @@
 				"62D2B830A98424BB"
 			]
 			description: [
-				"一台计算机提供的算力是不够的，如果要合并算力就需要这台机器"
-				"在使用前确保计算机上安装了桥接组件"
+				"{ftbquests.chapter.12538B9410F2DEC5.quest20.description1}"
+				"{ftbquests.chapter.12538B9410F2DEC5.quest20.description2}"
 			]
 			id: "5E86110BBAEA92BA"
 			shape: "rsquare"
@@ -318,7 +318,7 @@
 				"5D4131C48F9BAE46"
 				"7C4C11E7C931C01B"
 			]
-			description: ["可以高速处理mk3前的聚变配方，有轻微损耗。"]
+			description: ["{ftbquests.chapter.12538B9410F2DEC5.quest21.description1}"]
 			id: "2802E34A99CE1D79"
 			shape: "rsquare"
 			size: 1.0d
@@ -361,7 +361,7 @@
 		}
 		{
 			dependencies: ["0A2D46609F5C3CAB"]
-			description: ["OP"]
+			description: ["{ftbquests.chapter.12538B9410F2DEC5.quest24.description1}"]
 			id: "35C61EF7C0FBD32F"
 			shape: "rsquare"
 			size: 1.0d
@@ -375,7 +375,7 @@
 		}
 		{
 			dependencies: ["0A2D46609F5C3CAB"]
-			description: ["输入石油，输出产物"]
+			description: ["{ftbquests.chapter.12538B9410F2DEC5.quest25.description1}"]
 			id: "61838E13426B2B88"
 			shape: "rsquare"
 			size: 1.0d
@@ -392,7 +392,7 @@
 				"7C4C11E7C931C01B"
 				"04B1D03A3FE114F1"
 			]
-			description: ["前往太阳系之外"]
+			description: ["{ftbquests.chapter.12538B9410F2DEC5.quest26.description1}"]
 			id: "7FD1D1D8ED72D40C"
 			rewards: [{
 				id: "4BCD53BFF7E94B0A"
@@ -443,7 +443,7 @@
 		}
 		{
 			dependencies: ["64EAB77978C87CE9"]
-			description: ["纳米机器人"]
+			description: ["{ftbquests.chapter.12538B9410F2DEC5.quest28.description1}"]
 			id: "02F523E003E1C93D"
 			tasks: [{
 				id: "50ACEB6385D60F9C"
@@ -455,7 +455,7 @@
 		}
 		{
 			dependencies: ["02F523E003E1C93D"]
-			description: ["大批量纳米机器人生产"]
+			description: ["{ftbquests.chapter.12538B9410F2DEC5.quest29.description1}"]
 			id: "3B098EA4601A7827"
 			tasks: [{
 				id: "429C36800C493E79"
@@ -488,7 +488,7 @@
 				"02F523E003E1C93D"
 				"035C470213E8B4DB"
 			]
-			description: ["优化你的产线"]
+			description: ["{ftbquests.chapter.12538B9410F2DEC5.quest31.description1}"]
 			id: "16C93F76F74CB8DB"
 			tasks: [{
 				id: "42B8B94BB1B32E83"
@@ -500,7 +500,7 @@
 		}
 		{
 			dependencies: ["0A2D46609F5C3CAB"]
-			description: ["电解机、电磁选矿机和两极磁化机的激光版本"]
+			description: ["{ftbquests.chapter.12538B9410F2DEC5.quest32.description1}"]
 			id: "3565D2D5E0A2CEDF"
 			shape: "rsquare"
 			size: 1.0d
@@ -524,6 +524,6 @@
 			y: 2.0d
 		}
 	]
-	subtitle: ["Tier7-ZPM"]
-	title: "零点压"
+	subtitle: ["{ftbquests.chapter.12538B9410F2DEC5.subtitle0}"]
+	title: "{ftbquests.chapter.12538B9410F2DEC5.title}"
 }

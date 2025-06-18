@@ -11,13 +11,13 @@
 	quests: [
 		{
 			description: [
-				"多方块结构是多个方块构成的结构"
-				"你可以用扳手旋转结构"
+				"{ftbquests.chapter.49ED18A26C5A1B83.quest1.description1}"
+				"{ftbquests.chapter.49ED18A26C5A1B83.quest1.description2}"
 			]
 			id: "262671AC71B36736"
 			tasks: [{
 				id: "61480FBF487B19F1"
-				title: "多方块结构"
+				title: "{ftbquests.chapter.49ED18A26C5A1B83.quest1.task_7009870134231374321.title}"
 				type: "checkmark"
 			}]
 			x: -10.0d
@@ -25,13 +25,13 @@
 		}
 		{
 			description: [
-				"能源仓，动力舱，输入总线，巨型输入总线，输入仓，输入总成，输出总线，巨型输出总线，输出仓，输出总成，维护仓，消声仓，数据仓激光仓"
-				"在jei中可以查看每种仓室对应的位置和数量要求"
+				"{ftbquests.chapter.49ED18A26C5A1B83.quest2.description1}"
+				"{ftbquests.chapter.49ED18A26C5A1B83.quest2.description2}"
 			]
 			id: "124EE416D53264B8"
 			tasks: [{
 				id: "703A425F858BE442"
-				title: "各种功能方块"
+				title: "{ftbquests.chapter.49ED18A26C5A1B83.quest2.task_8086849058927010882.title}"
 				type: "checkmark"
 			}]
 			x: -8.0d
@@ -785,7 +785,7 @@
 		}
 		{
 			dependencies: ["40405034AE9D9945"]
-			description: ["原始人也要组装电路"]
+			description: ["{ftbquests.chapter.49ED18A26C5A1B83.quest56.description1}"]
 			id: "0A65389266654B6A"
 			rewards: [{
 				id: "1DD067753C0683D3"
@@ -838,7 +838,7 @@
 			id: "28D87403504BAC6E"
 			tasks: [{
 				id: "0A673087ED58B5F3"
-				title: "合金冶炼炉可以炖出很多奇奇怪怪的合金"
+				title: "{ftbquests.chapter.49ED18A26C5A1B83.quest60.task_749621223341209075.title}"
 				type: "checkmark"
 			}]
 			x: 12.0d
@@ -1523,7 +1523,7 @@
 			id: "40405034AE9D9945"
 			tasks: [{
 				id: "2E2E9FB9EFF51D49"
-				title: "ULV"
+				title: "{ftbquests.chapter.49ED18A26C5A1B83.quest117.task_3327772795616959817.title}"
 				type: "checkmark"
 			}]
 			x: -6.0d
@@ -1535,7 +1535,7 @@
 			id: "5930E12A8BCAF996"
 			tasks: [{
 				id: "64152215D45E4E00"
-				title: "LV"
+				title: "{ftbquests.chapter.49ED18A26C5A1B83.quest118.task_7211707855456325120.title}"
 				type: "checkmark"
 			}]
 			x: -4.0d
@@ -1547,7 +1547,7 @@
 			id: "36742169BE411C01"
 			tasks: [{
 				id: "2FFCC0CAAD18A08E"
-				title: "MV"
+				title: "{ftbquests.chapter.49ED18A26C5A1B83.quest119.task_3457850590633697422.title}"
 				type: "checkmark"
 			}]
 			x: -2.0d
@@ -1559,7 +1559,7 @@
 			id: "32BD532132423050"
 			tasks: [{
 				id: "5834899F4BB1EA9E"
-				title: "HV"
+				title: "{ftbquests.chapter.49ED18A26C5A1B83.quest120.task_6355856291389368990.title}"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -1571,7 +1571,7 @@
 			id: "45096D94AE6F7864"
 			tasks: [{
 				id: "5839CF5120A4D7E1"
-				title: "EV"
+				title: "{ftbquests.chapter.49ED18A26C5A1B83.quest121.task_6357340296357140449.title}"
 				type: "checkmark"
 			}]
 			x: 2.0d
@@ -1583,7 +1583,7 @@
 			id: "1443E064A0AB0B8B"
 			tasks: [{
 				id: "52DD9088B6DE3FEB"
-				title: "IV"
+				title: "{ftbquests.chapter.49ED18A26C5A1B83.quest122.task_5971087597821116395.title}"
 				type: "checkmark"
 			}]
 			x: 4.0d
@@ -1595,7 +1595,7 @@
 			id: "6D3BE9E3D76C71F9"
 			tasks: [{
 				id: "65CC4F6A2DB4D2C5"
-				title: "LUV"
+				title: "{ftbquests.chapter.49ED18A26C5A1B83.quest123.task_7335325210531648197.title}"
 				type: "checkmark"
 			}]
 			x: 6.0d
@@ -1607,7 +1607,7 @@
 			id: "5672B9E868EDBE4D"
 			tasks: [{
 				id: "34BA8C9664EA25EE"
-				title: "ZPM"
+				title: "{ftbquests.chapter.49ED18A26C5A1B83.quest124.task_3799503813206484462.title}"
 				type: "checkmark"
 			}]
 			x: 8.0d
@@ -1619,7 +1619,7 @@
 			id: "253337A8CECFB499"
 			tasks: [{
 				id: "4221729B13EB09A9"
-				title: "UV"
+				title: "{ftbquests.chapter.49ED18A26C5A1B83.quest125.task_4765215891114363305.title}"
 				type: "checkmark"
 			}]
 			x: 10.0d
@@ -1631,7 +1631,7 @@
 			id: "6A590699685D1D8A"
 			tasks: [{
 				id: "552126AC9F26A977"
-				title: "UHV"
+				title: "{ftbquests.chapter.49ED18A26C5A1B83.quest126.task_6134226690301667703.title}"
 				type: "checkmark"
 			}]
 			x: 12.0d
@@ -1643,7 +1643,7 @@
 			id: "65C4F7EDC0E9D99D"
 			tasks: [{
 				id: "28F5DD716FD478A9"
-				title: "UEV"
+				title: "{ftbquests.chapter.49ED18A26C5A1B83.quest127.task_2951508610088466601.title}"
 				type: "checkmark"
 			}]
 			x: 14.0d
@@ -1655,7 +1655,7 @@
 			id: "23DC6EEC1BCEF845"
 			tasks: [{
 				id: "01DD5BEA919FB23A"
-				title: "UIV"
+				title: "{ftbquests.chapter.49ED18A26C5A1B83.quest128.task_134364626914619962.title}"
 				type: "checkmark"
 			}]
 			x: 16.0d
@@ -1667,7 +1667,7 @@
 			id: "5019F5F1A660DB40"
 			tasks: [{
 				id: "5FFDE9B2DF3EACF8"
-				title: "UXV"
+				title: "{ftbquests.chapter.49ED18A26C5A1B83.quest129.task_6916941557169827064.title}"
 				type: "checkmark"
 			}]
 			x: 18.0d
@@ -1679,7 +1679,7 @@
 			id: "234661B47841AA2B"
 			tasks: [{
 				id: "1E8F8497159EB846"
-				title: "OPV"
+				title: "{ftbquests.chapter.49ED18A26C5A1B83.quest130.task_2202124527245113414.title}"
 				type: "checkmark"
 			}]
 			x: 20.0d
@@ -1691,7 +1691,7 @@
 			id: "3D79A180FDCC8B5B"
 			tasks: [{
 				id: "7772042253C705C0"
-				title: "MAX"
+				title: "{ftbquests.chapter.49ED18A26C5A1B83.quest131.task_8606946383339390400.title}"
 				type: "checkmark"
 			}]
 			x: 22.0d
@@ -2375,9 +2375,9 @@
 		{
 			dependencies: ["36742169BE411C01"]
 			description: [
-				"高效的生产机器，放入多个输入总线并开启隔离可以一台机器执行多个电路或者模具的配方"
-				"单方块机器需放入工厂GUI内，如果放入的机器等级和工厂等级不同，工厂就不会工作。"
-				"关于并行，可以去提示章节查看"
+				"{ftbquests.chapter.49ED18A26C5A1B83.quest185.description1}"
+				"{ftbquests.chapter.49ED18A26C5A1B83.quest185.description2}"
+				"{ftbquests.chapter.49ED18A26C5A1B83.quest185.description3}"
 			]
 			id: "42B4263B2A138D15"
 			rewards: [{
@@ -2753,7 +2753,7 @@
 				id: "35D84DB9E78E62B4"
 				type: "checkmark"
 			}]
-			title: "这里有201个多方块"
+			title: "{ftbquests.chapter.49ED18A26C5A1B83.quest213.title}"
 			x: -12.0d
 			y: -2.0d
 		}
@@ -3008,5 +3008,5 @@
 			y: 16.0d
 		}
 	]
-	title: "多方块结构"
+	title: "{ftbquests.chapter.49ED18A26C5A1B83.title}"
 }

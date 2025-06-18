@@ -14,7 +14,7 @@
 			id: "328D140CCF4FAEC6"
 			tasks: [{
 				id: "60C942F096955819"
-				title: "ULV"
+				title: "{ftbquests.chapter.606A554994C6B31D.quest1.task_6974179099045877785.title}"
 				type: "checkmark"
 			}]
 			x: -7.5d
@@ -25,7 +25,7 @@
 			id: "6967496308DD29AE"
 			tasks: [{
 				id: "18257AB42CC12B94"
-				title: "LV"
+				title: "{ftbquests.chapter.606A554994C6B31D.quest2.task_1739931745312123796.title}"
 				type: "checkmark"
 			}]
 			x: -7.5d
@@ -36,7 +36,7 @@
 			id: "1994BAD293E85984"
 			tasks: [{
 				id: "3F42209BF0C6D769"
-				title: "MV"
+				title: "{ftbquests.chapter.606A554994C6B31D.quest3.task_4558241626983946089.title}"
 				type: "checkmark"
 			}]
 			x: -7.5d
@@ -47,7 +47,7 @@
 			id: "231670C48BBDDB3E"
 			tasks: [{
 				id: "2D237EAD6E9F27AD"
-				title: "HV"
+				title: "{ftbquests.chapter.606A554994C6B31D.quest4.task_3252582639241996205.title}"
 				type: "checkmark"
 			}]
 			x: -7.5d
@@ -69,7 +69,7 @@
 				item: "gtceu:copper_credit"
 				type: "item"
 			}]
-			title: "青铜"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest5.title}"
 			x: -1.5d
 			y: -5.5d
 		}
@@ -90,7 +90,7 @@
 				item: "gtceu:copper_credit"
 				type: "item"
 			}]
-			title: "锡铁合金"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest6.title}"
 			x: 0.0d
 			y: -5.5d
 		}
@@ -111,7 +111,7 @@
 				item: "gtceu:copper_credit"
 				type: "item"
 			}]
-			title: "钢"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest7.title}"
 			x: 1.5d
 			y: -5.5d
 		}
@@ -131,7 +131,7 @@
 				item: "gtceu:copper_credit"
 				type: "item"
 			}]
-			title: "铜"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest8.title}"
 			x: -6.0d
 			y: -5.5d
 		}
@@ -151,7 +151,7 @@
 				item: "gtceu:copper_credit"
 				type: "item"
 			}]
-			title: "锡"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest9.title}"
 			x: -4.5d
 			y: -5.5d
 		}
@@ -171,7 +171,7 @@
 				item: "gtceu:copper_credit"
 				type: "item"
 			}]
-			title: "铁"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest10.title}"
 			x: -3.0d
 			y: -5.5d
 		}
@@ -191,7 +191,7 @@
 				item: "gtceu:copper_credit"
 				type: "item"
 			}]
-			title: "树脂"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest11.title}"
 			x: 3.0d
 			y: -5.5d
 		}
@@ -211,7 +211,7 @@
 				item: "gtceu:cupronickel_credit"
 				type: "item"
 			}]
-			title: "铅"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest12.title}"
 			x: -6.0d
 			y: -4.0d
 		}
@@ -231,7 +231,7 @@
 				item: "gtceu:cupronickel_credit"
 				type: "item"
 			}]
-			title: "镍"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest13.title}"
 			x: -4.5d
 			y: -4.0d
 		}
@@ -252,7 +252,7 @@
 				item: "gtceu:cupronickel_credit"
 				type: "item"
 			}]
-			title: "银"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest14.title}"
 			x: -3.0d
 			y: -4.0d
 		}
@@ -273,7 +273,7 @@
 				item: "gtceu:cupronickel_credit"
 				type: "item"
 			}]
-			title: "金"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest15.title}"
 			x: 0.0d
 			y: -4.0d
 		}
@@ -294,7 +294,7 @@
 				item: "gtceu:cupronickel_credit"
 				type: "item"
 			}]
-			title: "铝"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest16.title}"
 			x: -1.5d
 			y: -4.0d
 		}
@@ -315,7 +315,7 @@
 				item: "gtceu:cupronickel_credit"
 				type: "item"
 			}]
-			title: "红石"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest17.title}"
 			x: 1.5d
 			y: -4.0d
 		}
@@ -335,7 +335,7 @@
 				item: "gtceu:cupronickel_credit"
 				type: "item"
 			}]
-			title: "橡胶"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest18.title}"
 			x: 3.0d
 			y: -4.0d
 		}
@@ -346,7 +346,7 @@
 				item: "gtceu:ancient_gold_coin"
 				type: "item"
 			}]
-			title: "上古宝物"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest19.title}"
 			x: -7.5d
 			y: -7.0d
 		}
@@ -354,20 +354,20 @@
 			can_repeat: true
 			dependencies: ["369BA1002418F097"]
 			description: [
-				"使用这个神奇的瓶子对着工作中的GT机器潜行右键可以加速机器工作"
-				"当然，使用如此强大的物品会消耗你的饥饿值，且加速能力随机器等级的提升而减弱"
-				"可合成为高炉专用型，可以用来加速电力高炉和合金冶炼炉"
-				"机制："
-				"每次使用消耗1使用次数，使用次数每秒回复1，最大10次"
-				"普通：从蒸汽机器到HV机器的机器等级为0-3级，大于HV级无效"
-				"机器配方运行时间大于20秒时时间减少(4-机器等级)x2秒"
-				"机器配方运行时间大于10秒时时间减少(4-机器等级)秒"
-				"机器配方运行时间大于2秒时时间减少(4-机器等级)x0.5秒"
-				"土高炉为固定减少5秒"
-				"高炉专用：可加速LuV及以下的机器"
-				"机器配方运行时间大于40秒时时间固定减少8秒"
-				"机器配方运行时间大于20秒时时间固定减少4秒"
-				"机器配方运行时间大于10秒时时间固定减少2秒"
+				"{ftbquests.chapter.606A554994C6B31D.quest20.description1}"
+				"{ftbquests.chapter.606A554994C6B31D.quest20.description2}"
+				"{ftbquests.chapter.606A554994C6B31D.quest20.description3}"
+				"{ftbquests.chapter.606A554994C6B31D.quest20.description4}"
+				"{ftbquests.chapter.606A554994C6B31D.quest20.description5}"
+				"{ftbquests.chapter.606A554994C6B31D.quest20.description6}"
+				"{ftbquests.chapter.606A554994C6B31D.quest20.description7}"
+				"{ftbquests.chapter.606A554994C6B31D.quest20.description8}"
+				"{ftbquests.chapter.606A554994C6B31D.quest20.description9}"
+				"{ftbquests.chapter.606A554994C6B31D.quest20.description10}"
+				"{ftbquests.chapter.606A554994C6B31D.quest20.description11}"
+				"{ftbquests.chapter.606A554994C6B31D.quest20.description12}"
+				"{ftbquests.chapter.606A554994C6B31D.quest20.description13}"
+				"{ftbquests.chapter.606A554994C6B31D.quest20.description14}"
 			]
 			icon: {
 				Count: 1
@@ -402,7 +402,7 @@
 					type: "item"
 				}
 			]
-			title: "时间之瓶"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest20.title}"
 			x: -6.0d
 			y: -7.0d
 		}
@@ -410,10 +410,10 @@
 			can_repeat: true
 			dependencies: ["369BA1002418F097"]
 			description: [
-				"范围攻击"
-				"右键可以发射波束"
-				"潜行右键可以聚集100范围内的掉落物"
-				"聚集视角指定的生物"
+				"{ftbquests.chapter.606A554994C6B31D.quest21.description1}"
+				"{ftbquests.chapter.606A554994C6B31D.quest21.description2}"
+				"{ftbquests.chapter.606A554994C6B31D.quest21.description3}"
+				"{ftbquests.chapter.606A554994C6B31D.quest21.description4}"
 			]
 			icon: "avaritia:infinity_sword"
 			id: "59E9131BD015B4F5"
@@ -436,14 +436,14 @@
 					type: "item"
 				}
 			]
-			title: "寰宇支配之剑"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest21.title}"
 			x: -4.5d
 			y: -7.0d
 		}
 		{
 			can_repeat: true
 			dependencies: ["369BA1002418F097"]
-			description: ["铸造方法已经失传"]
+			description: ["{ftbquests.chapter.606A554994C6B31D.quest22.description1}"]
 			icon: "gtceu:damascus_steel_ingot"
 			id: "0E0889E2DEB646B6"
 			rewards: [{
@@ -465,16 +465,16 @@
 					type: "item"
 				}
 			]
-			title: "大马士革钢"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest22.title}"
 			x: -3.0d
 			y: -7.0d
 		}
 		{
 			dependencies: ["369BA1002418F097"]
 			description: [
-				"带有夜视和创造飞行，X键可加速飞行，最高4倍，潜行加X可以重制飞行速度，无需能量"
-				"Z键开关夜视"
-				"可使用宇航服升级为抵抗宇宙危险的航天版本，无需氧气"
+				"{ftbquests.chapter.606A554994C6B31D.quest23.description1}"
+				"{ftbquests.chapter.606A554994C6B31D.quest23.description2}"
+				"{ftbquests.chapter.606A554994C6B31D.quest23.description3}"
 			]
 			icon: {
 				Count: 1
@@ -552,14 +552,14 @@
 					type: "item"
 				}
 			]
-			title: "镄套装"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest23.title}"
 			x: 4.5d
 			y: -7.0d
 		}
 		{
 			can_repeat: true
 			dependencies: ["369BA1002418F097"]
-			description: ["因游戏流程需要，没有掉落物的"]
+			description: ["{ftbquests.chapter.606A554994C6B31D.quest24.description1}"]
 			icon: {
 				Count: 1
 				id: "kubejs:bedrock_destroyer"
@@ -609,7 +609,7 @@
 					type: "item"
 				}
 			]
-			title: "基岩破坏"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest24.title}"
 			x: -1.5d
 			y: -7.0d
 		}
@@ -630,7 +630,7 @@
 				item: "gtceu:silver_credit"
 				type: "item"
 			}]
-			title: "MV-HV的线缆"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest25.title}"
 			x: -3.0d
 			y: -2.5d
 		}
@@ -651,7 +651,7 @@
 				item: "gtceu:silver_credit"
 				type: "item"
 			}]
-			title: "红宝石"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest26.title}"
 			x: -6.0d
 			y: -2.5d
 		}
@@ -671,7 +671,7 @@
 				item: "gtceu:silver_credit"
 				type: "item"
 			}]
-			title: "镓"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest27.title}"
 			x: -4.5d
 			y: -2.5d
 		}
@@ -692,7 +692,7 @@
 				item: "gtceu:gold_credit"
 				type: "item"
 			}]
-			title: "EV-IV线缆"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest28.title}"
 			x: -6.0d
 			y: -1.0d
 		}
@@ -729,7 +729,7 @@
 					type: "item"
 				}
 			]
-			title: "省一个格子"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest29.title}"
 			x: -1.5d
 			y: -2.5d
 		}
@@ -749,7 +749,7 @@
 				item: "gtceu:gold_credit"
 				type: "item"
 			}]
-			title: "超级缸 I"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest30.title}"
 			x: -4.5d
 			y: -1.0d
 		}
@@ -769,7 +769,7 @@
 				item: "gtceu:gold_credit"
 				type: "item"
 			}]
-			title: "超级箱 I"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest31.title}"
 			x: -3.0d
 			y: -1.0d
 		}
@@ -778,7 +778,7 @@
 			id: "0F5FC80A063D12FE"
 			tasks: [{
 				id: "4AB433EFDF70990A"
-				title: "EV"
+				title: "{ftbquests.chapter.606A554994C6B31D.quest32.task_5382984559953484042.title}"
 				type: "checkmark"
 			}]
 			x: -7.5d
@@ -801,7 +801,7 @@
 				item: "gtceu:silver_credit"
 				type: "item"
 			}]
-			title: "流体单元 I"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest33.title}"
 			x: 0.0d
 			y: -2.5d
 		}
@@ -821,7 +821,7 @@
 				item: "gtceu:gold_credit"
 				type: "item"
 			}]
-			title: "流体单元 II"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest34.title}"
 			x: -1.5d
 			y: -1.0d
 		}
@@ -841,7 +841,7 @@
 				item: "gtceu:platinum_credit"
 				type: "item"
 			}]
-			title: "超级缸 II"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest35.title}"
 			x: -6.0d
 			y: 0.5d
 		}
@@ -861,7 +861,7 @@
 				item: "gtceu:platinum_credit"
 				type: "item"
 			}]
-			title: "超级箱 II"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest36.title}"
 			x: -4.5d
 			y: 0.5d
 		}
@@ -881,14 +881,14 @@
 				item: "gtceu:platinum_credit"
 				type: "item"
 			}]
-			title: "流体单元 III"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest37.title}"
 			x: -3.0d
 			y: 0.5d
 		}
 		{
 			can_repeat: true
 			dependencies: ["369BA1002418F097"]
-			description: ["精准获得方块"]
+			description: ["{ftbquests.chapter.606A554994C6B31D.quest38.description1}"]
 			icon: {
 				Count: 1
 				id: "minecraft:enchanted_book"
@@ -930,14 +930,14 @@
 					type: "item"
 				}
 			]
-			title: "精准采集"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest38.title}"
 			x: 0.0d
 			y: -7.0d
 		}
 		{
 			can_repeat: true
 			dependencies: ["369BA1002418F097"]
-			description: ["高速挖掘"]
+			description: ["{ftbquests.chapter.606A554994C6B31D.quest39.description1}"]
 			icon: {
 				Count: 1
 				id: "minecraft:enchanted_book"
@@ -979,7 +979,7 @@
 					type: "item"
 				}
 			]
-			title: "效率"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest39.title}"
 			x: 1.5d
 			y: -7.0d
 		}
@@ -987,9 +987,9 @@
 			can_repeat: true
 			dependencies: ["369BA1002418F097"]
 			description: [
-				"高速挖掘，默认按J可调节速度，潜行加快调节速度"
-				"潜行左键可以开关磁力吸引"
-				"不消耗耐久和电量"
+				"{ftbquests.chapter.606A554994C6B31D.quest40.description1}"
+				"{ftbquests.chapter.606A554994C6B31D.quest40.description2}"
+				"{ftbquests.chapter.606A554994C6B31D.quest40.description3}"
 			]
 			icon: {
 				Count: 1
@@ -1086,7 +1086,7 @@
 					type: "item"
 				}
 			]
-			title: "金钢杵"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest40.title}"
 			x: 3.0d
 			y: -7.0d
 		}
@@ -1116,7 +1116,7 @@
 					type: "item"
 				}
 			]
-			title: "蒸汽机械方块"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest41.title}"
 			x: 4.5d
 			y: -5.5d
 		}
@@ -1125,7 +1125,7 @@
 			id: "4E80FF3BE1903C6F"
 			tasks: [{
 				id: "1FF12285BEC17EA2"
-				title: "IV"
+				title: "{ftbquests.chapter.606A554994C6B31D.quest42.task_2301658842389380770.title}"
 				type: "checkmark"
 			}]
 			x: -7.5d
@@ -1147,7 +1147,7 @@
 				item: "gtceu:osmium_credit"
 				type: "item"
 			}]
-			title: "量子缸Ⅴ"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest43.title}"
 			x: -6.0d
 			y: 2.0d
 		}
@@ -1166,7 +1166,7 @@
 				item: "gtceu:osmium_credit"
 				type: "item"
 			}]
-			title: "量子箱Ⅴ"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest44.title}"
 			x: -4.5d
 			y: 2.0d
 		}
@@ -1185,7 +1185,7 @@
 				item: "gtceu:ancient_gold_coin"
 				type: "item"
 			}]
-			title: "黑心老板"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest45.title}"
 			x: 4.5d
 			y: -1.0d
 		}
@@ -1205,7 +1205,7 @@
 				item: "gtceu:ancient_gold_coin"
 				type: "item"
 			}]
-			title: "黑心老板"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest46.title}"
 			x: 4.5d
 			y: 0.5d
 		}
@@ -1225,7 +1225,7 @@
 				item: { Count: 100, id: "gtceu:ancient_gold_coin" }
 				type: "item"
 			}]
-			title: "黑心老板"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest47.title}"
 			x: 4.5d
 			y: 2.0d
 		}
@@ -1246,7 +1246,7 @@
 				item: "gtceu:naquadah_credit"
 				type: "item"
 			}]
-			title: "256M"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest48.title}"
 			x: -3.0d
 			y: 2.0d
 		}
@@ -1268,7 +1268,7 @@
 				item: "gtceu:osmium_credit"
 				type: "item"
 			}]
-			title: "玻璃线缆"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest49.title}"
 			x: -1.5d
 			y: 2.0d
 		}
@@ -1288,10 +1288,10 @@
 				item: "gtceu:silver_credit"
 				type: "item"
 			}]
-			title: "多彩世界"
+			title: "{ftbquests.chapter.606A554994C6B31D.quest50.title}"
 			x: 4.5d
 			y: -4.0d
 		}
 	]
-	title: "小市场"
+	title: "{ftbquests.chapter.606A554994C6B31D.title}"
 }

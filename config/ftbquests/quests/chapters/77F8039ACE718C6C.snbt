@@ -10,8 +10,8 @@
 	quests: [
 		{
 			description: [
-				"拿到青铜锭你就可以开始蒸汽时代了"
-				"鼓起勇气迈向格雷科技的第一个电压吧！"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest1.description1}"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest1.description2}"
 			]
 			id: "5F5F348E3A34827E"
 			rewards: [{
@@ -26,12 +26,12 @@
 				item: "gtceu:bronze_ingot"
 				type: "item"
 			}]
-			title: "蒸汽时代ULV"
+			title: "{ftbquests.chapter.77F8039ACE718C6C.quest1.title}"
 			x: 0.0d
 			y: 0.0d
 		}
 		{
-			description: ["而水又是从哪里来的呢，现在的你需要一些水"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest2.description1}"]
 			id: "4E96A08CF12D496A"
 			rewards: [{
 				id: "0EF18EDF382FF874"
@@ -43,13 +43,13 @@
 				item: "gtceu:primitive_pump"
 				type: "item"
 			}]
-			title: "水的来源"
+			title: "{ftbquests.chapter.77F8039ACE718C6C.quest2.title}"
 			x: 0.0d
 			y: -2.0d
 		}
 		{
 			dependencies: ["2B9D62FB6BF39201"]
-			description: ["钻石是耐烧王，推荐烧钻石"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest3.description1}"]
 			id: "4BFC342697BDE75A"
 			rewards: [{
 				count: 64
@@ -62,14 +62,14 @@
 				item: "gtceu:lp_steam_solid_boiler"
 				type: "item"
 			}]
-			title: "低压锅炉"
+			title: "{ftbquests.chapter.77F8039ACE718C6C.quest3.title}"
 			x: 2.0d
 			y: -2.0d
 		}
 		{
 			can_repeat: true
 			dependencies: ["5F5F348E3A34827E"]
-			description: ["记得在使用时用扳手蹲下右键锁定流向"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest4.description1}"]
 			id: "781417A4FA36101D"
 			rewards: [{
 				count: 64
@@ -79,7 +79,7 @@
 			}]
 			tasks: [{
 				id: "02A2DDC03475574B"
-				title: "送你一点管道"
+				title: "{ftbquests.chapter.77F8039ACE718C6C.quest4.task_189957951886546763.title}"
 				type: "checkmark"
 			}]
 			x: -2.0d
@@ -91,8 +91,8 @@
 				"36A49197309D1F09"
 			]
 			description: [
-				"你可以开始炼钢了"
-				"推荐&5焦煤+锻铁&r的配方"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest5.description1}"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest5.description2}"
 			]
 			id: "5CE50DDC960340D8"
 			rewards: [
@@ -126,7 +126,7 @@
 		}
 		{
 			dependencies: ["2B9D62FB6BF39201"]
-			description: ["它是用来压缩东西的"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest6.description1}"]
 			id: "5C936EF307594737"
 			rewards: [{
 				id: "704DF16EECC15BD8"
@@ -143,7 +143,7 @@
 		}
 		{
 			dependencies: ["5C936EF307594737"]
-			description: ["直接用研钵磨粉，然后直接合成"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest7.description1}"]
 			icon: "gtceu:fireclay_dust"
 			id: "36A49197309D1F09"
 			rewards: [{
@@ -168,13 +168,13 @@
 					type: "item"
 				}
 			]
-			title: "耐火黏土粉"
+			title: "{ftbquests.chapter.77F8039ACE718C6C.quest7.title}"
 			x: 5.0d
 			y: 0.5d
 		}
 		{
 			dependencies: ["5C936EF307594737"]
-			description: ["前期推荐直接用压缩机做"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest8.description1}"]
 			hide_dependency_lines: false
 			hide_dependent_lines: true
 			id: "79E81CC078F246C0"
@@ -189,7 +189,7 @@
 				item: "gtceu:rubber_plate"
 				type: "item"
 			}]
-			title: "你的第一片橡胶"
+			title: "{ftbquests.chapter.77F8039ACE718C6C.quest8.title}"
 			x: 6.0d
 			y: -2.0d
 		}
@@ -206,7 +206,7 @@
 				item: "gtceu:steel_ingot"
 				type: "item"
 			}]
-			title: "你的第一块钢锭"
+			title: "{ftbquests.chapter.77F8039ACE718C6C.quest9.title}"
 			x: 8.0d
 			y: 0.0d
 		}
@@ -215,7 +215,7 @@
 				"02375F5D54E5F347"
 				"43DE0784E5D32B46"
 			]
-			description: ["用来制作电力机器，还可以用来制作仓"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest10.description1}"]
 			id: "7CB85061F0822830"
 			rewards: [{
 				id: "0D14C938E01BD29D"
@@ -234,7 +234,7 @@
 		}
 		{
 			dependencies: ["2B9D62FB6BF39201"]
-			description: ["利用合金炉混合金属"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest11.description1}"]
 			id: "30F031CD02425ED7"
 			rewards: [{
 				count: 64
@@ -252,7 +252,7 @@
 		}
 		{
 			dependencies: ["00579BDA1FA1BEC6"]
-			description: ["远古世界有一些有用的矿"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest12.description1}"]
 			id: "335ED39019FC62E7"
 			rewards: [
 				{
@@ -292,7 +292,7 @@
 			tasks: [{
 				dimension: "kubejs:ancient_world"
 				id: "7B798A358D3DA56B"
-				title: "远古世界"
+				title: "{ftbquests.chapter.77F8039ACE718C6C.quest12.task_8897294501454652779.title}"
 				type: "dimension"
 			}]
 			x: 8.0d
@@ -300,7 +300,7 @@
 		}
 		{
 			dependencies: ["30F031CD02425ED7"]
-			description: ["ULV的超导材料但是你用它做反应堆"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest13.description1}"]
 			id: "3D65D9712DFB63D9"
 			rewards: [{
 				id: "7FAA57A862B018AE"
@@ -318,12 +318,12 @@
 		{
 			dependencies: ["3D65D9712DFB63D9"]
 			description: [
-				"现在你可以用它前往远古世界"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest14.description1}"
 				""
-				"关于结构：中心放核心，相邻4个方块为钢块，角落4个方块为钻石块，平放"
-				"右击核心即可前往远古世界"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest14.description2}"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest14.description3}"
 				""
-				"当你在EV完成三阶火箭后你需要用它前往地狱"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest14.description4}"
 			]
 			id: "00579BDA1FA1BEC6"
 			rewards: [{
@@ -355,7 +355,7 @@
 		}
 		{
 			dependencies: ["2B9D62FB6BF39201"]
-			description: ["它可以讲三个锭锤成两个板，比手搓有更高的效率"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest15.description1}"]
 			hide_dependency_lines: true
 			id: "6525C9DE2A276238"
 			rewards: [{
@@ -376,7 +376,7 @@
 				"6525C9DE2A276238"
 				"388BD32463FA905D"
 			]
-			description: ["前期钢产的很慢，要以尽可能高效的利用"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest16.description1}"]
 			id: "02375F5D54E5F347"
 			rewards: [{
 				id: "1A0B2145C6BEAD5B"
@@ -404,7 +404,7 @@
 				item: "gtceu:tin_single_cable"
 				type: "item"
 			}]
-			title: "锡线缆"
+			title: "{ftbquests.chapter.77F8039ACE718C6C.quest17.title}"
 			x: 12.0d
 			y: -2.0d
 		}
@@ -429,7 +429,7 @@
 				"707E5114B7979898"
 				"388BD32463FA905D"
 			]
-			description: ["你的第一颗ULV电路，你需要用它帮忙做更便宜的，做几个就够了"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest19.description1}"]
 			id: "5CD26DECB937FC71"
 			rewards: [{
 				id: "327EC9AD42261D00"
@@ -446,7 +446,7 @@
 		}
 		{
 			dependencies: ["30F031CD02425ED7"]
-			description: ["这个你不能像青铜一样手动混合，你只能借助机器的力量合成"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest20.description1}"]
 			id: "3C91E284A9A03B1B"
 			rewards: [{
 				id: "08462119775B14A3"
@@ -514,7 +514,7 @@
 					type: "item"
 				}
 			]
-			title: "来自远古世界的矿"
+			title: "{ftbquests.chapter.77F8039ACE718C6C.quest22.title}"
 			x: 10.0d
 			y: 2.0d
 		}
@@ -542,7 +542,7 @@
 				"3C071C0542CF935D"
 				"5CD26DECB937FC71"
 			]
-			description: ["原始人也要组装电路"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest24.description1}"]
 			id: "34FCFA114E75D770"
 			rewards: [{
 				id: "0C0731B2ACDDCE0D"
@@ -560,9 +560,9 @@
 		{
 			dependencies: ["5F5F348E3A34827E"]
 			description: [
-				"依靠它你可以制作一些超强的蒸汽多方块结构"
-				"他们有着很高的并行当你有不锈钢后还能超频和升压（MV）"
-				"前往多方块结构章节了解更多"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest25.description1}"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest25.description2}"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest25.description3}"
 			]
 			hide_dependent_lines: true
 			id: "5276CA8FA5262C9B"
@@ -624,9 +624,9 @@
 			]
 			dependency_requirement: "one_completed"
 			description: [
-				"不需要做很多，做几个就行了"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest28.description1}"
 				""
-				"你其实可以用蒸汽大电装做的"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest28.description2}"
 			]
 			id: "5065BEDC95AE564E"
 			min_required_dependencies: 2
@@ -640,7 +640,7 @@
 				item: "gtceu:basic_electronic_circuit"
 				type: "item"
 			}]
-			title: "你的第一块电路"
+			title: "{ftbquests.chapter.77F8039ACE718C6C.quest28.title}"
 			x: 6.0d
 			y: 6.5d
 		}
@@ -661,7 +661,7 @@
 		}
 		{
 			dependencies: ["77A1011F608079C9"]
-			description: ["电阻有很多配方，都是一样的"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest30.description1}"]
 			id: "6D729450ED86BDAF"
 			rewards: [{
 				id: "108CAF7D675F876A"
@@ -709,7 +709,7 @@
 		}
 		{
 			dependencies: ["2585418910B6798A"]
-			description: ["离心粘性树脂"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest33.description1}"]
 			id: "06285BE2396AB639"
 			rewards: [{
 				id: "2AEAC8B8E1C1EBB2"
@@ -729,7 +729,7 @@
 				"34FCFA114E75D770"
 				"06285BE2396AB639"
 			]
-			description: ["更加便宜的电路，这个系列一直到EV"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest34.description1}"]
 			id: "08B7D8F835DFE214"
 			rewards: [{
 				id: "79AC4D19DF1054D1"
@@ -749,7 +749,7 @@
 				"08B7D8F835DFE214"
 				"5065BEDC95AE564E"
 			]
-			description: ["这个是便宜的LV电路"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest35.description1}"]
 			id: "553B2D61416792DC"
 			rewards: [{
 				id: "5FCCD0A40F20BB43"
@@ -769,8 +769,8 @@
 		{
 			dependencies: ["12FE2B59FA86381C"]
 			description: [
-				"AE2是是一个非常好用的自动化mod"
-				"从现在开始你就可以开始发展了"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest36.description1}"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest36.description2}"
 			]
 			id: "6E69F45AEA66D5ED"
 			rewards: [{
@@ -780,7 +780,7 @@
 			}]
 			tasks: [{
 				id: "76E9DDCCC307F224"
-				title: "AE2"
+				title: "{ftbquests.chapter.77F8039ACE718C6C.quest36.task_8568623637564224036.title}"
 				type: "checkmark"
 			}]
 			x: 12.0d
@@ -788,7 +788,7 @@
 		}
 		{
 			dependencies: ["553B2D61416792DC"]
-			description: ["青铜蒸汽锅炉经过了史诗级加强，你可以不需要思考用蒸汽发电到HV（HV需要多堆几台）"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest37.description1}"]
 			id: "328D5CF265FCCCA3"
 			rewards: [{
 				id: "02EE5681EA132E6A"
@@ -807,8 +807,8 @@
 		{
 			dependencies: ["5F5F348E3A34827E"]
 			description: [
-				"蒸汽机器需要&a&d设置排气口&r，运行一次后就需要排气，排气口需对这空气，否则就无法工作"
-				"使用扳手右键以设置排气口"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest38.description1}"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest38.description2}"
 			]
 			icon: "gtceu:lp_steam_rock_crusher"
 			id: "7736F74AEBCB914E"
@@ -819,7 +819,7 @@
 			}]
 			tasks: [{
 				id: "1FF020A8688728E6"
-				title: "我的蒸汽机器为什么运行一次就停了"
+				title: "{ftbquests.chapter.77F8039ACE718C6C.quest38.task_2301375317266606310.title}"
 				type: "checkmark"
 			}]
 			x: -2.0d
@@ -827,7 +827,7 @@
 		}
 		{
 			dependencies: ["5CE50DDC960340D8"]
-			description: ["瞬间获得产物"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest39.description1}"]
 			id: "0662E205D1783D31"
 			rewards: [
 				{
@@ -855,7 +855,7 @@
 		}
 		{
 			dependencies: ["1AB03D24332B722E"]
-			description: ["强力熔炉，蒸汽消耗也少"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest40.description1}"]
 			id: "0532330B52D98469"
 			rewards: [{
 				id: "142C72A3F57D1D8C"
@@ -874,7 +874,7 @@
 		}
 		{
 			dependencies: ["5F5F348E3A34827E"]
-			description: ["蒸汽时代的熔炉"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest41.description1}"]
 			hide_dependency_lines: true
 			id: "10750DEB64B4BF89"
 			rewards: [{
@@ -892,7 +892,7 @@
 		}
 		{
 			dependencies: ["10750DEB64B4BF89"]
-			description: ["8并行，需要继续升级"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest42.description1}"]
 			id: "1AB03D24332B722E"
 			rewards: [{
 				id: "26F40D0C80FD0D34"
@@ -912,7 +912,7 @@
 				"5F5F348E3A34827E"
 				"4E96A08CF12D496A"
 			]
-			description: ["蒸汽一般来说是烧水来的"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest43.description1}"]
 			id: "2B9D62FB6BF39201"
 			rewards: [{
 				id: "7E1DBDCD0B82F6E6"
@@ -921,7 +921,7 @@
 			}]
 			tasks: [{
 				id: "61D5BA33A860F807"
-				title: "蒸汽来源"
+				title: "{ftbquests.chapter.77F8039ACE718C6C.quest43.task_7049745522749405191.title}"
 				type: "checkmark"
 			}]
 			x: 2.0d
@@ -930,13 +930,13 @@
 		{
 			dependencies: ["5F5F348E3A34827E"]
 			description: [
-				"蒸汽多方块需要放入蒸汽输入仓来提供蒸汽"
-				"一般情况下物品需要蒸汽输入总线和蒸汽输出总线，具体查看JEI"
-				"流体使用输入仓和输出仓"
-				"大型的蒸汽多方块都有64的并行，并且处理速度是LV机器的2倍"
-				"非大型的蒸汽多方块为8并行"
-				"蒸汽多方块的外壳可以到小市场购买"
-				"大型蒸汽多方块满并行工作时蒸汽消耗特别大，需要用时空管道或激光节点等高速流体传输手段来提供蒸汽，否则会跳蒸汽"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest44.description1}"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest44.description2}"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest44.description3}"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest44.description4}"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest44.description5}"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest44.description6}"
+				"{ftbquests.chapter.77F8039ACE718C6C.quest44.description7}"
 			]
 			hide_dependent_lines: true
 			icon: "gtceu:steam_piston_hammer"
@@ -971,7 +971,7 @@
 			size: 1.0d
 			tasks: [{
 				id: "6ACDB1E4B636D7F0"
-				title: "蒸汽多方块"
+				title: "{ftbquests.chapter.77F8039ACE718C6C.quest44.task_7696002934113753072.title}"
 				type: "checkmark"
 			}]
 			x: -2.0d
@@ -979,7 +979,7 @@
 		}
 		{
 			dependencies: ["12FE2B59FA86381C"]
-			description: ["激光物流的合成都被加强了，推荐使用这个模组来物流"]
+			description: ["{ftbquests.chapter.77F8039ACE718C6C.quest45.description1}"]
 			id: "7B38A7C2643C6766"
 			rewards: [{
 				id: "42242771F67681FC"
@@ -1093,7 +1093,7 @@
 				item: "gtceu:gold_credit"
 				type: "item"
 			}]
-			title: "划算的买卖"
+			title: "{ftbquests.chapter.77F8039ACE718C6C.quest47.title}"
 			x: 14.0d
 			y: 2.0d
 		}
@@ -1117,7 +1117,7 @@
 				item: "gtceu:gold_credit"
 				type: "item"
 			}]
-			title: "嫌麻烦可以买一点1"
+			title: "{ftbquests.chapter.77F8039ACE718C6C.quest48.title}"
 			x: 13.75d
 			y: 2.75d
 		}
@@ -1141,7 +1141,7 @@
 				item: "gtceu:gold_credit"
 				type: "item"
 			}]
-			title: "嫌麻烦可以买一点2"
+			title: "{ftbquests.chapter.77F8039ACE718C6C.quest49.title}"
 			x: 14.25d
 			y: 2.75d
 		}
@@ -1165,7 +1165,7 @@
 				item: "gtceu:gold_credit"
 				type: "item"
 			}]
-			title: "嫌麻烦可以买一点3"
+			title: "{ftbquests.chapter.77F8039ACE718C6C.quest50.title}"
 			x: 13.75d
 			y: 3.25d
 		}
@@ -1189,7 +1189,7 @@
 				item: "gtceu:gold_credit"
 				type: "item"
 			}]
-			title: "嫌麻烦可以买一点4"
+			title: "{ftbquests.chapter.77F8039ACE718C6C.quest51.title}"
 			x: 14.25d
 			y: 3.25d
 		}
@@ -1206,11 +1206,11 @@
 				item: "ae2:condenser"
 				type: "item"
 			}]
-			title: "这是垃圾桶"
+			title: "{ftbquests.chapter.77F8039ACE718C6C.quest52.title}"
 			x: 14.0d
 			y: 4.0d
 		}
 	]
-	subtitle: ["Tier0-ULV"]
-	title: "蒸汽时代"
+	subtitle: ["{ftbquests.chapter.77F8039ACE718C6C.subtitle0}"]
+	title: "{ftbquests.chapter.77F8039ACE718C6C.title}"
 }

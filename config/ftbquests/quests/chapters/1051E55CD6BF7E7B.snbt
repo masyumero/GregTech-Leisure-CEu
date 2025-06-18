@@ -15,7 +15,7 @@
 	quests: [
 		{
 			dependencies: ["48925ECBCC5D268D"]
-			description: ["借助了命令方块的力量"]
+			description: ["{ftbquests.chapter.1051E55CD6BF7E7B.quest1.description1}"]
 			id: "67A81E3F7E247521"
 			tasks: [
 				{
@@ -68,7 +68,7 @@
 		}
 		{
 			dependencies: ["67A81E3F7E247521"]
-			description: ["未知之地"]
+			description: ["{ftbquests.chapter.1051E55CD6BF7E7B.quest2.description1}"]
 			id: "1416EAE88C9030C8"
 			tasks: [{
 				dimension: "kubejs:create"
@@ -80,7 +80,7 @@
 		}
 		{
 			dependencies: ["296DE95F3BE7DC54"]
-			description: ["交易获得的物品，但不知道如何使用"]
+			description: ["{ftbquests.chapter.1051E55CD6BF7E7B.quest3.description1}"]
 			id: "470DDCCD8E017A4F"
 			tasks: [{
 				id: "6C1581BB60019E84"
@@ -92,7 +92,7 @@
 		}
 		{
 			dependencies: ["1416EAE88C9030C8"]
-			description: ["包含多维空间的所有能量"]
+			description: ["{ftbquests.chapter.1051E55CD6BF7E7B.quest4.description1}"]
 			id: "5AFEAD001EDA612D"
 			tasks: [{
 				id: "318A4B7F9925680F"
@@ -107,7 +107,7 @@
 				"0BF48314F3323108"
 				"38FFB6D2003C7EB4"
 			]
-			description: ["二维展开"]
+			description: ["{ftbquests.chapter.1051E55CD6BF7E7B.quest5.description1}"]
 			id: "1EB9F1815EB656B0"
 			tasks: [{
 				id: "453883277EF4A1B6"
@@ -122,7 +122,7 @@
 				"470DDCCD8E017A4F"
 				"1EB9F1815EB656B0"
 			]
-			description: ["打开命令方块后获得的物品"]
+			description: ["{ftbquests.chapter.1051E55CD6BF7E7B.quest6.description1}"]
 			id: "48925ECBCC5D268D"
 			tasks: [{
 				id: "3DFC2C88970DA844"
@@ -135,8 +135,8 @@
 		{
 			dependencies: ["48925ECBCC5D268D"]
 			description: [
-				"你可以放下和打破命令方块了，但还是不知道如何使用"
-				"只能放置在稳定核心上方"
+				"{ftbquests.chapter.1051E55CD6BF7E7B.quest7.description1}"
+				"{ftbquests.chapter.1051E55CD6BF7E7B.quest7.description2}"
 			]
 			id: "34DB07A64CD1439C"
 			tasks: [{
@@ -208,8 +208,8 @@
 				"338F629A694C7556"
 			]
 			description: [
-				"耗能固定为4A MAX"
-				"核心放入输入总线，方块放机器正中间"
+				"{ftbquests.chapter.1051E55CD6BF7E7B.quest13.description1}"
+				"{ftbquests.chapter.1051E55CD6BF7E7B.quest13.description2}"
 			]
 			id: "2F9392EF05DB11EF"
 			tasks: [{
@@ -225,7 +225,7 @@
 				"2F9392EF05DB11EF"
 				"4C37CB772835CFD0"
 			]
-			description: ["使用命令权杖潜行右键来打破"]
+			description: ["{ftbquests.chapter.1051E55CD6BF7E7B.quest14.description1}"]
 			id: "2D1F2793A396B322"
 			tasks: [{
 				id: "4C7140E1B28862FE"
@@ -320,7 +320,7 @@
 			}]
 			tasks: [{
 				id: "51FC498DB7A8FE4B"
-				title: "未完待续"
+				title: "{ftbquests.chapter.1051E55CD6BF7E7B.quest21.task_5907677684223770187.title}"
 				type: "checkmark"
 			}]
 			x: 15.0d
@@ -328,18 +328,18 @@
 		}
 		{
 			dependencies: ["1416EAE88C9030C8"]
-			description: ["你看着它好像看到了好多个银河年前泛银河格雷科技销售部货架上的那个大胡子玩偶"]
+			description: ["{ftbquests.chapter.1051E55CD6BF7E7B.quest22.description1}"]
 			id: "516498830339A0A9"
 			tasks: [{
 				id: "74404EE9AEC393D4"
 				item: "expatternprovider:fishbig"
 				type: "item"
 			}]
-			title: "我会永远陪着你的"
+			title: "{ftbquests.chapter.1051E55CD6BF7E7B.quest22.title}"
 			x: 7.0d
 			y: -1.0d
 		}
 	]
-	subtitle: ["Tier14-MAX"]
-	title: "上限压"
+	subtitle: ["{ftbquests.chapter.1051E55CD6BF7E7B.subtitle0}"]
+	title: "{ftbquests.chapter.1051E55CD6BF7E7B.title}"
 }

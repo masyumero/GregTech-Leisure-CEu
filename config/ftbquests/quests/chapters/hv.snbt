@@ -19,10 +19,10 @@
 			size: 2.0d
 			tasks: [{
 				id: "2F52039C169285CF"
-				title: "HV"
+				title: "{ftbquests.chapter.hv.quest1.task_3409791836801369551.title}"
 				type: "checkmark"
 			}]
-			title: "高压HV"
+			title: "{ftbquests.chapter.hv.quest1.title}"
 			x: 0.0d
 			y: 0.0d
 		}
@@ -101,7 +101,7 @@
 					type: "item"
 				}
 			]
-			title: "HV发射器与传感器"
+			title: "{ftbquests.chapter.hv.quest5.title}"
 			x: 8.0d
 			y: 0.0d
 		}
@@ -158,7 +158,7 @@
 			y: 0.0d
 		}
 		{
-			description: ["用聚爆压缩机，不过用屠宰场更方便"]
+			description: ["{ftbquests.chapter.hv.quest9.description1}"]
 			id: "6B416753B41DE9D3"
 			rewards: [{
 				id: "241C9174A4E2AE10"
@@ -285,7 +285,7 @@
 					type: "item"
 				}
 			]
-			title: "维护两种高级仓"
+			title: "{ftbquests.chapter.hv.quest15.title}"
 			x: 6.0d
 			y: 6.0d
 		}
@@ -307,7 +307,7 @@
 		}
 		{
 			dependencies: ["7940CFD732610594"]
-			description: ["前往探索宇宙章节了解更多"]
+			description: ["{ftbquests.chapter.hv.quest17.description1}"]
 			id: "0931ECBAAD9252C7"
 			rewards: [
 				{
@@ -413,7 +413,7 @@
 					type: "item"
 				}
 			]
-			title: "石化生化产线"
+			title: "{ftbquests.chapter.hv.quest20.title}"
 			x: 12.0d
 			y: 0.0d
 		}
@@ -436,7 +436,7 @@
 		}
 		{
 			dependencies: ["027197A71E630966"]
-			description: ["可以从空气中获得氦气和氩气都是烧制更高级金属的保护气"]
+			description: ["{ftbquests.chapter.hv.quest22.description1}"]
 			id: "2610283E00EC04E4"
 			rewards: [{
 				id: "31410A08F07C9CC3"
@@ -509,7 +509,7 @@
 				"5E9EA7E22BE663AF"
 			]
 			dependency_requirement: "one_completed"
-			description: ["你得把切割机放在通用加工厂，然后装上超净维护仓"]
+			description: ["{ftbquests.chapter.hv.quest26.description1}"]
 			id: "676D1982102F4E79"
 			min_required_dependencies: 1
 			rewards: [{
@@ -608,14 +608,14 @@
 					type: "item"
 				}
 			]
-			title: "贴片"
+			title: "{ftbquests.chapter.hv.quest30.title}"
 			x: 4.0d
 			y: 8.0d
 		}
 		{
 			dependencies: ["61049DA87C6DEFC6"]
 			dependency_requirement: "one_completed"
-			description: ["聚四氟乙烯，简称PTFE是一种独特的塑料材料，具有卓越的化学稳定性、耐热性、低摩擦系数和非粘性表面，用作化学加工设备的零件、电子绝缘材料、泵和阀门的密封件。"]
+			description: ["{ftbquests.chapter.hv.quest31.description1}"]
 			id: "11186961491B1773"
 			rewards: [{
 				id: "50D9BD8E2FED65CF"
@@ -648,7 +648,7 @@
 		}
 		{
 			dependencies: ["027197A71E630966"]
-			description: ["这种合金具有优异的耐腐蚀性、耐高温性和机械性能，常用于制造耐热、耐腐蚀的设备和部件。"]
+			description: ["{ftbquests.chapter.hv.quest33.description1}"]
 			id: "6843AB3573F42310"
 			rewards: [{
 				id: "4521C94E7C8BF69B"
@@ -743,7 +743,7 @@
 		}
 		{
 			dependencies: ["2EAAF5A6510D0EFE"]
-			description: ["在EV的时候你就需要大量的奇奇怪怪的化工原料，现在不把石化生化联合产线搭好，后面EV会非常坐牢"]
+			description: ["{ftbquests.chapter.hv.quest38.description1}"]
 			id: "57A4521AB4244810"
 			rewards: [{
 				id: "751F0D369F8AECEC"
@@ -752,7 +752,7 @@
 			}]
 			tasks: [{
 				id: "45688891118E1797"
-				title: "石化生化产线特别有必要"
+				title: "{ftbquests.chapter.hv.quest38.task_5001397542841096087.title}"
 				type: "checkmark"
 			}]
 			x: 14.0d
@@ -760,7 +760,7 @@
 		}
 		{
 			dependencies: ["1A48D2DB936FF632"]
-			description: ["终于可以获得研磨的副产物了"]
+			description: ["{ftbquests.chapter.hv.quest39.description1}"]
 			id: "24A12D2F592DC50D"
 			rewards: [{
 				id: "5AD386A16F67A37E"
@@ -777,7 +777,7 @@
 		}
 		{
 			dependencies: ["1A48D2DB936FF632"]
-			description: ["这个系列的最后一个"]
+			description: ["{ftbquests.chapter.hv.quest40.description1}"]
 			id: "46BFDB71190C1F49"
 			rewards: [{
 				id: "21D42C7B4D0E84C3"
@@ -789,7 +789,7 @@
 				item: "gtceu:vibrant_alloy_ingot"
 				type: "item"
 			}]
-			title: "HV的便宜超导"
+			title: "{ftbquests.chapter.hv.quest40.title}"
 			x: -2.0d
 			y: 2.0d
 		}
@@ -827,7 +827,7 @@
 		}
 		{
 			dependencies: ["26FA6E064EF9FF5B"]
-			description: ["你可以开始用无线电了，这样就不用为怎么连电线而烦恼了"]
+			description: ["{ftbquests.chapter.hv.quest43.description1}"]
 			hide_dependency_lines: true
 			id: "29BB35C725BE7D96"
 			rewards: [{
@@ -848,13 +848,13 @@
 					type: "item"
 				}
 			]
-			title: "无线传电"
+			title: "{ftbquests.chapter.hv.quest43.title}"
 			x: -2.0d
 			y: 8.0d
 		}
 		{
 			dependencies: ["1A48D2DB936FF632"]
-			description: ["有的人死了，可他又活了"]
+			description: ["{ftbquests.chapter.hv.quest44.description1}"]
 			id: "46C791B2130A833B"
 			rewards: [{
 				count: 64
@@ -871,6 +871,6 @@
 			y: 2.0d
 		}
 	]
-	subtitle: ["Tier3-HV"]
-	title: "高压"
+	subtitle: ["{ftbquests.chapter.hv.subtitle0}"]
+	title: "{ftbquests.chapter.hv.title}"
 }

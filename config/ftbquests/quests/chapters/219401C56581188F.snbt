@@ -31,9 +31,9 @@
 				"23B418803D455368"
 			]
 			description: [
-				"使用一种特殊的仪式消耗能量来收集周围的魔力"
-				"这里的魔力相当于一种原材料"
-				"蜡烛可以用石油制作黑色的，然后染色"
+				"{ftbquests.chapter.219401C56581188F.quest1.description1}"
+				"{ftbquests.chapter.219401C56581188F.quest1.description2}"
+				"{ftbquests.chapter.219401C56581188F.quest1.description3}"
 			]
 			id: "22053B1292EE07C9"
 			shape: "rsquare"
@@ -53,7 +53,7 @@
 				"2858C1A89BAF2624"
 				"24585C3114095227"
 			]
-			description: ["该阶段的核心机器"]
+			description: ["{ftbquests.chapter.219401C56581188F.quest2.description1}"]
 			id: "7523FB4AAB1F89C3"
 			shape: "rsquare"
 			size: 2.0d
@@ -151,7 +151,7 @@
 		}
 		{
 			dependencies: ["792A351AAA2A4F2B"]
-			description: ["直接操纵里德堡原子的波函数来进行计算 "]
+			description: ["{ftbquests.chapter.219401C56581188F.quest9.description1}"]
 			id: "48E77454D1CD87CD"
 			tasks: [{
 				id: "4244DC73F0D8DA55"
@@ -259,7 +259,7 @@
 				"7523FB4AAB1F89C3"
 				"42A3F72D88E25018"
 			]
-			description: ["很坚硬"]
+			description: ["{ftbquests.chapter.219401C56581188F.quest17.description1}"]
 			id: "2641CC6BC33F6A31"
 			tasks: [{
 				id: "2F9E606799202DC9"
@@ -270,7 +270,7 @@
 			y: -2.0d
 		}
 		{
-			description: ["使用催发体循环"]
+			description: ["{ftbquests.chapter.219401C56581188F.quest18.description1}"]
 			id: "42A3F72D88E25018"
 			tasks: [
 				{
@@ -388,7 +388,7 @@
 		}
 		{
 			dependencies: ["42A3F72D88E25018"]
-			description: ["高效率生产回响"]
+			description: ["{ftbquests.chapter.219401C56581188F.quest27.description1}"]
 			id: "127B8396034C0F34"
 			tasks: [
 				{
@@ -457,7 +457,7 @@
 		}
 		{
 			dependencies: ["09210B5E086F6E1A"]
-			description: ["使用小堆粉磁化"]
+			description: ["{ftbquests.chapter.219401C56581188F.quest32.description1}"]
 			id: "77BE1524AABF6003"
 			tasks: [{
 				id: "226943A2546478B5"
@@ -480,13 +480,13 @@
 		}
 		{
 			dependencies: ["5CD56CD71662D4A7"]
-			description: ["有点复杂"]
+			description: ["{ftbquests.chapter.219401C56581188F.quest34.description1}"]
 			hide_dependency_lines: true
 			icon: "gtceu:euv_photoresist_bucket"
 			id: "606C81F449ABCE5B"
 			tasks: [{
 				id: "011EBE67C0D8E442"
-				title: "EUV光刻胶"
+				title: "{ftbquests.chapter.219401C56581188F.quest34.task_80711196165596226.title}"
 				type: "checkmark"
 			}]
 			x: 6.0d
@@ -498,7 +498,7 @@
 			id: "281B6C20538A3CBA"
 			tasks: [{
 				id: "0B10159A50C58ACF"
-				title: "环戊二烯锎"
+				title: "{ftbquests.chapter.219401C56581188F.quest35.task_797160886568848079.title}"
 				type: "checkmark"
 			}]
 			x: 4.0d
@@ -506,7 +506,7 @@
 		}
 		{
 			dependencies: ["021401D3D29EBC87"]
-			description: ["不用堆大量计算机了"]
+			description: ["{ftbquests.chapter.219401C56581188F.quest36.description1}"]
 			id: "181A1B6F5AD15F52"
 			shape: "gear"
 			size: 1.0d
@@ -534,7 +534,7 @@
 				"369DCD1E26334632"
 				"34D6F0DF329B1877"
 			]
-			description: ["绝对干净"]
+			description: ["{ftbquests.chapter.219401C56581188F.quest38.description1}"]
 			id: "67D93082DA7185CC"
 			tasks: [{
 				id: "6791BE188E97863E"
@@ -598,7 +598,7 @@
 				"63F90FA0F85804B8"
 				"61F8C5AA6DEB30D6"
 			]
-			description: ["高效率生产基岩"]
+			description: ["{ftbquests.chapter.219401C56581188F.quest43.description1}"]
 			id: "3968C254B6AC9B9D"
 			shape: "gear"
 			size: 1.0d
@@ -663,6 +663,6 @@
 			y: 8.0d
 		}
 	]
-	subtitle: ["Tier10-UEV"]
-	title: "极超压"
+	subtitle: ["{ftbquests.chapter.219401C56581188F.subtitle0}"]
+	title: "{ftbquests.chapter.219401C56581188F.title}"
 }

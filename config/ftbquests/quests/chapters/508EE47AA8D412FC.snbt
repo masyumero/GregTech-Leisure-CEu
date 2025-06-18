@@ -470,7 +470,7 @@
 				"7ADB50ACF5AE1D13"
 				"34D6F0DF329B1877"
 			]
-			description: ["安装在超维度等离子锻炉上才能发挥作用"]
+			description: ["{ftbquests.chapter.508EE47AA8D412FC.quest1.description1}"]
 			id: "11D8044BD0401E53"
 			tasks: [{
 				id: "20F532379723D90D"
@@ -613,7 +613,7 @@
 		}
 		{
 			dependencies: ["5D8BD23AA2113DC2"]
-			description: ["这些只是现实存在的元素"]
+			description: ["{ftbquests.chapter.508EE47AA8D412FC.quest14.description1}"]
 			icon: "gtceu:periodicium_ingot"
 			id: "58CCCFF70575B019"
 			rewards: [{
@@ -623,12 +623,12 @@
 			}]
 			tasks: [{
 				id: "2D19C3E7A2DB5A98"
-				title: "全元素搜集"
+				title: "{ftbquests.chapter.508EE47AA8D412FC.quest14.task_3249844005761669784.title}"
 				type: "checkmark"
 			}]
 			x: 1.5d
 			y: -1.0d
 		}
 	]
-	title: "进度"
+	title: "{ftbquests.chapter.508EE47AA8D412FC.title}"
 }

@@ -9,11 +9,11 @@
 	quest_links: [ ]
 	quests: [
 		{
-			description: ["一个标准的铁矿脉.当你需要补充矿工用品时,这是一个不错的目标."]
+			description: ["{ftbquests.chapter.77C762813215SADD.quest1.description1}"]
 			icon: "gtceu:yellow_limonite_ore"
 			id: "692F4312B3F73FAF"
 			size: 0.9d
-			subtitle: "铁、铜来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest1.subtitle}"
 			tasks: [
 				{
 					id: "6BF52C2246A0844E"
@@ -36,16 +36,16 @@
 					type: "item"
 				}
 			]
-			title: "褐铁矿"
+			title: "{ftbquests.chapter.77C762813215SADD.quest1.title}"
 			x: 1.5d
 			y: -3.7d
 		}
 		{
-			description: ["铁，金，钒的很好来源"]
+			description: ["{ftbquests.chapter.77C762813215SADD.quest2.description1}"]
 			icon: "gtceu:magnetite_ore"
 			id: "260E516A219825A2"
 			size: 0.9d
-			subtitle: "铁、金、钒来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest2.subtitle}"
 			tasks: [
 				{
 					id: "2814C224F95FA845"
@@ -63,20 +63,20 @@
 					type: "item"
 				}
 			]
-			title: "磁铁矿"
+			title: "{ftbquests.chapter.77C762813215SADD.quest2.title}"
 			x: 2.5d
 			y: -3.7d
 		}
 		{
 			description: [
-				"一种优秀的铁-铜混合矿脉."
+				"{ftbquests.chapter.77C762813215SADD.quest3.description1}"
 				""
-				"黄铜精矿在后期会对铂族泥浆的获取产生重要作用."
+				"{ftbquests.chapter.77C762813215SADD.quest3.description2}"
 			]
 			icon: "gtceu:pyrite_ore"
 			id: "03FBBA4A693011A8"
 			size: 0.9d
-			subtitle: "铜、铁来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest3.subtitle}"
 			tasks: [
 				{
 					id: "21D9BE0CDF8D20D0"
@@ -99,16 +99,16 @@
 					type: "item"
 				}
 			]
-			title: "黄铁矿"
+			title: "{ftbquests.chapter.77C762813215SADD.quest3.title}"
 			x: 3.5d
 			y: -3.5d
 		}
 		{
-			description: ["一个适合早期游戏的好矿脉.铜和锡可以用来制造青铜,雄黄是你的第一种砷的来源,而沸石则没什么用途."]
+			description: ["{ftbquests.chapter.77C762813215SADD.quest4.description1}"]
 			icon: "gtceu:chalcopyrite_ore"
 			id: "4826DCD2FC457EA5"
 			size: 0.9d
-			subtitle: "铜、锡来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest4.subtitle}"
 			tasks: [
 				{
 					id: "21B8E250B773443C"
@@ -131,16 +131,16 @@
 					type: "item"
 				}
 			]
-			title: "黄铜矿"
+			title: "{ftbquests.chapter.77C762813215SADD.quest4.title}"
 			x: 4.5d
 			y: -3.0d
 		}
 		{
-			description: ["一种纯银矿脉,对早期游戏非常有用."]
+			description: ["{ftbquests.chapter.77C762813215SADD.quest5.description1}"]
 			icon: "gtceu:cassiterite_ore"
 			id: "3B379794A3030C73"
 			size: 0.9d
-			subtitle: "锡来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest5.subtitle}"
 			tasks: [
 				{
 					id: "46C302CBE74092FC"
@@ -153,20 +153,20 @@
 					type: "item"
 				}
 			]
-			title: "锡石"
+			title: "{ftbquests.chapter.77C762813215SADD.quest5.title}"
 			x: 5.0d
 			y: -2.0d
 		}
 		{
 			description: [
-				"如果你还没有找到纯锡矿脉,这是一种不错的替代品."
+				"{ftbquests.chapter.77C762813215SADD.quest6.description1}"
 				""
-				"其他矿物就像装饰品一样."
+				"{ftbquests.chapter.77C762813215SADD.quest6.description2}"
 			]
 			icon: "gtceu:cassiterite_sand_ore"
 			id: "41616C31D9C08648"
 			size: 0.9d
-			subtitle: "锡来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest6.subtitle}"
 			tasks: [
 				{
 					id: "281CC5BB43AB6FBC"
@@ -189,37 +189,37 @@
 					type: "item"
 				}
 			]
-			title: "锡石沙"
+			title: "{ftbquests.chapter.77C762813215SADD.quest6.title}"
 			x: 5.5d
 			y: -1.0d
 		}
 		{
-			description: ["作为矿物,煤矿不值得大规模加工,因为需要太多的步骤将其转化成可用的燃料.但随身携带一些还是不错的选择."]
+			description: ["{ftbquests.chapter.77C762813215SADD.quest7.description1}"]
 			icon: "minecraft:coal_ore"
 			id: "1E27C654E2F6FFF2"
 			size: 0.9d
-			subtitle: "污染源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest7.subtitle}"
 			tasks: [{
 				id: "5FC26FB906B6F0A2"
 				item: "minecraft:coal"
 				type: "item"
 			}]
-			title: "煤炭"
+			title: "{ftbquests.chapter.77C762813215SADD.quest7.title}"
 			x: 5.5d
 			y: 0.0d
 		}
 		{
 			description: [
-				"你获取钻石的唯一途径!"
+				"{ftbquests.chapter.77C762813215SADD.quest8.description1}"
 				""
-				"与铁工具相比,钻石工具有&6五倍的耐久性&r.但其制作需要用切割机加工得到钻石板,需要一定的等级限制."
+				"{ftbquests.chapter.77C762813215SADD.quest8.description2}"
 				""
-				"钻石和石墨都可以被电解成大量的碳."
+				"{ftbquests.chapter.77C762813215SADD.quest8.description3}"
 			]
 			icon: "gtceu:graphite_ore"
 			id: "1B45DB5C85B68182"
 			size: 0.9d
-			subtitle: "钻石、碳来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest8.subtitle}"
 			tasks: [
 				{
 					id: "774FD60E5F9C5225"
@@ -237,20 +237,20 @@
 					type: "item"
 				}
 			]
-			title: "石墨"
+			title: "{ftbquests.chapter.77C762813215SADD.quest8.title}"
 			x: 5.5d
 			y: 1.0d
 		}
 		{
 			description: [
-				"你获取氯的一站式商店."
+				"{ftbquests.chapter.77C762813215SADD.quest9.description1}"
 				""
-				"云母矿可用于获得锂."
+				"{ftbquests.chapter.77C762813215SADD.quest9.description2}"
 			]
 			icon: "gtceu:salt_ore"
 			id: "5289D5049A236D55"
 			size: 0.9d
-			subtitle: "盐、氯、锂、氟来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest9.subtitle}"
 			tasks: [
 				{
 					id: "13B468D35939891B"
@@ -273,20 +273,20 @@
 					type: "item"
 				}
 			]
-			title: "云母"
+			title: "{ftbquests.chapter.77C762813215SADD.quest9.title}"
 			x: 5.0d
 			y: 2.0d
 		}
 		{
 			description: [
-				"这种矿脉在中期游戏时只有铝镁合金的价值."
+				"{ftbquests.chapter.77C762813215SADD.quest10.description1}"
 				""
-				"但是,橄榄石有其用途,因为它可以在许多合成中代替&a绿宝石&r."
+				"{ftbquests.chapter.77C762813215SADD.quest10.description2}"
 			]
 			icon: "gtceu:olivine_ore"
 			id: "7C1B5559A03F6E02"
 			size: 0.9d
-			subtitle: "镁来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest10.subtitle}"
 			tasks: [
 				{
 					id: "0428A9705DCDEBC2"
@@ -304,20 +304,20 @@
 					type: "item"
 				}
 			]
-			title: "橄榄石"
+			title: "{ftbquests.chapter.77C762813215SADD.quest10.title}"
 			x: 4.5d
 			y: 3.0d
 		}
 		{
 			description: [
-				"闪闪发光!"
+				"{ftbquests.chapter.77C762813215SADD.quest11.description1}"
 				""
-				"你会希望能用它制作珠宝."
+				"{ftbquests.chapter.77C762813215SADD.quest11.description2}"
 			]
 			icon: "gtceu:red_garnet_ore"
 			id: "178285129CEA9F9F"
 			size: 0.9d
-			subtitle: "项链来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest11.subtitle}"
 			tasks: [
 				{
 					id: "50787547A7F0A72E"
@@ -340,20 +340,20 @@
 					type: "item"
 				}
 			]
-			title: "石榴石"
+			title: "{ftbquests.chapter.77C762813215SADD.quest11.title}"
 			x: 3.5d
 			y: 3.5d
 		}
 		{
 			description: [
-				"这几乎是你需要提纯磷的唯一矿脉,但需要进行几个步骤的加工才能获得磷."
+				"{ftbquests.chapter.77C762813215SADD.quest12.description1}"
 				""
-				"烧绿石将成为极其有价值的资源,因为它是铌的来源之一."
+				"{ftbquests.chapter.77C762813215SADD.quest12.description2}"
 			]
 			icon: "gtceu:apatite_ore"
 			id: "70252B72F7728EFD"
 			size: 0.9d
-			subtitle: "钙、磷、铌来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest12.subtitle}"
 			tasks: [
 				{
 					id: "1091719F41C151CE"
@@ -371,16 +371,16 @@
 					type: "item"
 				}
 			]
-			title: "磷灰石"
+			title: "{ftbquests.chapter.77C762813215SADD.quest12.title}"
 			x: 2.5d
 			y: 3.7d
 		}
 		{
-			description: ["你经典的红石矿脉."]
+			description: ["{ftbquests.chapter.77C762813215SADD.quest13.description1}"]
 			icon: "minecraft:redstone_ore"
 			id: "2E5A71CED4B01657"
 			size: 0.9d
-			subtitle: "红石、红宝石、铬、汞来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest13.subtitle}"
 			tasks: [
 				{
 					id: "2CE255679DBEF5D8"
@@ -398,20 +398,20 @@
 					type: "item"
 				}
 			]
-			title: "红石"
+			title: "{ftbquests.chapter.77C762813215SADD.quest13.title}"
 			x: 1.5d
 			y: 3.7d
 		}
 		{
 			description: [
-				"两种蓝宝石变体是你最主要的铝源,直到你能够在&bMV&r中解锁其他电解配方."
+				"{ftbquests.chapter.77C762813215SADD.quest14.description1}"
 				""
-				"其他两种宝石最多算是平凡无奇."
+				"{ftbquests.chapter.77C762813215SADD.quest14.description2}"
 			]
 			icon: "gtceu:sapphire_ore"
 			id: "6EFE154D32A2155E"
 			size: 0.9d
-			subtitle: "铝来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest14.subtitle}"
 			tasks: [
 				{
 					id: "1318A25CD8DF8CC8"
@@ -434,39 +434,39 @@
 					type: "item"
 				}
 			]
-			title: "蓝宝石"
+			title: "{ftbquests.chapter.77C762813215SADD.quest14.title}"
 			x: 0.5d
 			y: 3.5d
 		}
 		{
 			description: [
-				"是&6重油&r的好来源,早期用于&6液态燃料&r."
+				"{ftbquests.chapter.77C762813215SADD.quest15.description1}"
 				""
-				"如果你不想完全加工矿石,你可以直接用&b离心机&r处理它."
+				"{ftbquests.chapter.77C762813215SADD.quest15.description2}"
 			]
 			icon: "gtceu:oilsands_ore"
 			id: "7C35B6B0B4CFFEB2"
 			size: 0.9d
-			subtitle: "美国梦来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest15.subtitle}"
 			tasks: [{
 				id: "301C4CD1E47E2D02"
 				item: "gtceu:raw_oilsands"
 				type: "item"
 			}]
-			title: "油砂"
+			title: "{ftbquests.chapter.77C762813215SADD.quest15.title}"
 			x: -0.5d
 			y: 3.0d
 		}
 		{
 			description: [
-				"这个就是一个梗,它的名字叫做润滑油脉."
+				"{ftbquests.chapter.77C762813215SADD.quest16.description1}"
 				""
-				"话虽如此,润滑油总是很有用的."
+				"{ftbquests.chapter.77C762813215SADD.quest16.description2}"
 			]
 			icon: "gtceu:soapstone_ore"
 			id: "676667089653641C"
 			size: 0.9d
-			subtitle: "润滑油来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest16.subtitle}"
 			tasks: [
 				{
 					id: "4E280784AE8DC125"
@@ -489,20 +489,20 @@
 					type: "item"
 				}
 			]
-			title: "皂石"
+			title: "{ftbquests.chapter.77C762813215SADD.quest16.title}"
 			x: -1.0d
 			y: 2.0d
 		}
 		{
 			description: [
-				"你知道蓝金石和方钠石可以替代青金石进行附魔吗？"
+				"{ftbquests.chapter.77C762813215SADD.quest17.description1}"
 				""
-				"方钠石是这里最有价值的矿石,尤其是在你达到&bMV&r时的电解配方非常有用."
+				"{ftbquests.chapter.77C762813215SADD.quest17.description2}"
 			]
 			icon: "gtceu:lapis_ore"
 			id: "39A58AFE2E0C13EB"
 			size: 0.9d
-			subtitle: "青金石、铝、钠、氯来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest17.subtitle}"
 			tasks: [
 				{
 					id: "3E903B26B6E0D98E"
@@ -525,20 +525,20 @@
 					type: "item"
 				}
 			]
-			title: "青金石"
+			title: "{ftbquests.chapter.77C762813215SADD.quest17.title}"
 			x: -1.5d
 			y: 1.0d
 		}
 		{
 			description: [
-				"锰铁矿是你在这里的目的地.它可以直接冶炼成锰,而你将需要大量的锰来制造&6高压&r的物品."
+				"{ftbquests.chapter.77C762813215SADD.quest18.description1}"
 				""
-				"钽矿将最终变得非常有价值,借助它的铌副产品."
+				"{ftbquests.chapter.77C762813215SADD.quest18.description2}"
 			]
 			icon: "gtceu:pyrolusite_ore"
 			id: "2C75A50B17AA9AF1"
 			size: 0.9d
-			subtitle: "锰来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest18.subtitle}"
 			tasks: [
 				{
 					id: "10FC904696261AF3"
@@ -561,16 +561,16 @@
 					type: "item"
 				}
 			]
-			title: "锰矿"
+			title: "{ftbquests.chapter.77C762813215SADD.quest18.title}"
 			x: -1.5d
 			y: 0.0d
 		}
 		{
-			description: ["这是铅和银最稳定的来源."]
+			description: ["{ftbquests.chapter.77C762813215SADD.quest19.description1}"]
 			icon: "gtceu:galena_ore"
 			id: "14587AE142D84E12"
 			size: 0.9d
-			subtitle: "铅、银来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest19.subtitle}"
 			tasks: [
 				{
 					id: "4E3A072619DD0ADD"
@@ -588,16 +588,16 @@
 					type: "item"
 				}
 			]
-			title: "方铅矿"
+			title: "{ftbquests.chapter.77C762813215SADD.quest19.title}"
 			x: -1.5d
 			y: -1.0d
 		}
 		{
-			description: ["这是你唯一可信赖的镍源."]
+			description: ["{ftbquests.chapter.77C762813215SADD.quest20.description1}"]
 			icon: "gtceu:nickel_ore"
 			id: "38C955F6CBDD95BD"
 			size: 0.9d
-			subtitle: "镍、钴来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest20.subtitle}"
 			tasks: [
 				{
 					id: "2B48BE1948B21FA3"
@@ -620,16 +620,16 @@
 					type: "item"
 				}
 			]
-			title: "镍"
+			title: "{ftbquests.chapter.77C762813215SADD.quest20.title}"
 			x: -1.0d
 			y: -2.0d
 		}
 		{
-			description: ["蓝晶石和云母在电解时有良好的分解性能,但还有更好的选择,所以如果你只想得到它们的副产物,就不需要特意去寻找."]
+			description: ["{ftbquests.chapter.77C762813215SADD.quest21.description1}"]
 			icon: "gtceu:mica_ore"
 			id: "0B4BA438FE7F3640"
 			size: 0.9d
-			subtitle: "铝、氟来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest21.subtitle}"
 			tasks: [
 				{
 					id: "7296DE6280CBC6A1"
@@ -647,16 +647,16 @@
 					type: "item"
 				}
 			]
-			title: "云母"
+			title: "{ftbquests.chapter.77C762813215SADD.quest21.title}"
 			x: -0.5d
 			y: -3.0d
 		}
 		{
-			description: ["这是最差的铁矿,虽然它在早期是有用的,但也就仅限于此了."]
+			description: ["{ftbquests.chapter.77C762813215SADD.quest22.description1}"]
 			icon: "gtceu:granitic_mineral_sand_ore"
 			id: "5295C4AEFA8417F3"
 			size: 0.9d
-			subtitle: "铁来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest22.subtitle}"
 			tasks: [
 				{
 					id: "0A9878360139CD46"
@@ -679,16 +679,16 @@
 					type: "item"
 				}
 			]
-			title: "矿物沙"
+			title: "{ftbquests.chapter.77C762813215SADD.quest22.title}"
 			x: 0.5d
 			y: -3.5d
 		}
 		{
-			description: ["事实上它是&5EV&r和其后期的进展中事实上唯一的稀土来源."]
+			description: ["{ftbquests.chapter.77C762813215SADD.quest23.description1}"]
 			icon: "gtceu:netherrack_bastnasite_ore"
 			id: "2171AF09E76A5968"
 			size: 0.9d
-			subtitle: "稀土、钕、氟来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest23.subtitle}"
 			tasks: [
 				{
 					id: "7628A17F2E48C5E7"
@@ -706,16 +706,16 @@
 					type: "item"
 				}
 			]
-			title: "独居石"
+			title: "{ftbquests.chapter.77C762813215SADD.quest23.title}"
 			x: 7.4d
 			y: -3.2d
 		}
 		{
-			description: ["绿宝石矿是这里最实用的矿石.需要小量使用来制造&bMV&r中的技术物品"]
+			description: ["{ftbquests.chapter.77C762813215SADD.quest24.description1}"]
 			icon: "gtceu:netherrack_emerald_ore"
 			id: "594D84730913698A"
 			size: 0.9d
-			subtitle: "铍矿石、绿宝石的来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest24.subtitle}"
 			tasks: [
 				{
 					id: "14C64BEBBC783475"
@@ -728,20 +728,20 @@
 					type: "item"
 				}
 			]
-			title: "绿宝石"
+			title: "{ftbquests.chapter.77C762813215SADD.quest24.title}"
 			x: 8.4d
 			y: -4.0d
 		}
 		{
 			description: [
-				"这个矿脉非常稀有!恭喜你发现了它."
+				"{ftbquests.chapter.77C762813215SADD.quest25.description1}"
 				""
-				"基本上就是钼,加上不太重要的材料."
+				"{ftbquests.chapter.77C762813215SADD.quest25.description2}"
 			]
 			icon: "gtceu:netherrack_molybdenum_ore"
 			id: "63CB3C9F5A61E0C4"
 			size: 0.9d
-			subtitle: "钼矿的来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest25.subtitle}"
 			tasks: [
 				{
 					id: "382A7CC243D7042E"
@@ -764,20 +764,20 @@
 					type: "item"
 				}
 			]
-			title: "钼"
+			title: "{ftbquests.chapter.77C762813215SADD.quest25.title}"
 			x: 9.6d
 			y: -4.0d
 		}
 		{
 			description: [
-				"&b应用能源2&r中的进展需要 赛特斯石英 矿脉."
+				"{ftbquests.chapter.77C762813215SADD.quest26.description1}"
 				""
-				"重晶石经电解制成钡,你将需要它来制造一些高级超导材料."
+				"{ftbquests.chapter.77C762813215SADD.quest26.description2}"
 			]
 			icon: "gtceu:netherrack_certus_quartz_ore"
 			id: "517D50E748A129AB"
 			size: 0.9d
-			subtitle: "AE2、钡的来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest26.subtitle}"
 			tasks: [
 				{
 					id: "753C65ED1CA407C7"
@@ -795,20 +795,20 @@
 					type: "item"
 				}
 			]
-			title: "赛特斯石英"
+			title: "{ftbquests.chapter.77C762813215SADD.quest26.title}"
 			x: 10.6d
 			y: -3.2d
 		}
 		{
 			description: [
-				"蓝石在&6高压&r进展中非常重要.离心机中它分离成了琥珀金(一种金和银的来源)和红石."
+				"{ftbquests.chapter.77C762813215SADD.quest27.description1}"
 				""
-				"硝石在几个反应中使用"
+				"{ftbquests.chapter.77C762813215SADD.quest27.description2}"
 			]
 			icon: "gtceu:netherrack_saltpeter_ore"
 			id: "1F572D638AAACA21"
 			size: 0.9d
-			subtitle: "钾、蓝色合金的来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest27.subtitle}"
 			tasks: [
 				{
 					id: "5483A769AEEA0FA0"
@@ -831,20 +831,20 @@
 					type: "item"
 				}
 			]
-			title: "硝石"
+			title: "{ftbquests.chapter.77C762813215SADD.quest27.title}"
 			x: 11.0d
 			y: -2.0d
 		}
 		{
 			description: [
-				"任何一种黄玉矿石都非常适合电解."
+				"{ftbquests.chapter.77C762813215SADD.quest28.description1}"
 				""
-				"最好的氟化物来源."
+				"{ftbquests.chapter.77C762813215SADD.quest28.description2}"
 			]
 			icon: "gtceu:netherrack_topaz_ore"
 			id: "37EC97FB0FC6C56D"
 			size: 0.9d
-			subtitle: "铜、氟化物的来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest28.subtitle}"
 			tasks: [
 				{
 					id: "29303BBBF186EA1B"
@@ -867,20 +867,20 @@
 					type: "item"
 				}
 			]
-			title: "黄玉"
+			title: "{ftbquests.chapter.77C762813215SADD.quest28.title}"
 			x: 10.6d
 			y: -0.8d
 		}
 		{
 			description: [
-				"几乎是一条纯铜矿脉.该死的锑矿!"
+				"{ftbquests.chapter.77C762813215SADD.quest29.description1}"
 				""
-				"锑矿可以直接冶炼成锑,你需要在&7LV&r中获得锑来制作电池."
+				"{ftbquests.chapter.77C762813215SADD.quest29.description2}"
 			]
 			icon: "gtceu:netherrack_tetrahedrite_ore"
 			id: "45B62B35180593EA"
 			size: 0.9d
-			subtitle: "铜、锑的来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest29.subtitle}"
 			tasks: [
 				{
 					id: "65BB3345F5602A55"
@@ -898,20 +898,20 @@
 					type: "item"
 				}
 			]
-			title: "黝铜"
+			title: "{ftbquests.chapter.77C762813215SADD.quest29.title}"
 			x: 9.6d
 			y: 0.0d
 		}
 		{
 			description: [
-				"这种下界褐铁矿脉变种绝不能被忽视."
+				"{ftbquests.chapter.77C762813215SADD.quest30.description1}"
 				""
-				"由于&a双倍收益&r,这是一个极好的铁和金源."
+				"{ftbquests.chapter.77C762813215SADD.quest30.description2}"
 			]
 			icon: "gtceu:netherrack_yellow_limonite_ore"
 			id: "0AFADD21454D968E"
 			size: 0.9d
-			subtitle: "铁、金的来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest30.subtitle}"
 			tasks: [
 				{
 					id: "0C549A9F07E02FA6"
@@ -929,20 +929,20 @@
 					type: "item"
 				}
 			]
-			title: "带状铁矿"
+			title: "{ftbquests.chapter.77C762813215SADD.quest30.title}"
 			x: 8.4d
 			y: 0.0d
 		}
 		{
 			description: [
-				"注意,这个矿脉通常从y层10到30生成."
+				"{ftbquests.chapter.77C762813215SADD.quest31.description1}"
 				""
-				"闪锌矿非常有价值,因为它的矿石加工可以得到镓.它也可以直接冶炼成锌."
+				"{ftbquests.chapter.77C762813215SADD.quest31.description2}"
 			]
 			icon: "gtceu:netherrack_sulfur_ore"
 			id: "030E299F75640977"
 			size: 0.9d
-			subtitle: "硫磺、铁、锌的来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest31.subtitle}"
 			tasks: [
 				{
 					id: "022CC6EDF95C7696"
@@ -960,20 +960,20 @@
 					type: "item"
 				}
 			]
-			title: "硫磺"
+			title: "{ftbquests.chapter.77C762813215SADD.quest31.title}"
 			x: 7.4d
 			y: -0.8d
 		}
 		{
 			description: [
-				"你经典的下界石英矿脉."
+				"{ftbquests.chapter.77C762813215SADD.quest32.description1}"
 				""
-				"硅并不难得到,但石英岩也是一个不错的来源."
+				"{ftbquests.chapter.77C762813215SADD.quest32.description2}"
 			]
 			icon: "gtceu:netherrack_nether_quartz_ore"
 			id: "0269FCDE2628904A"
 			size: 0.9d
-			subtitle: "地狱石英、硅的来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest32.subtitle}"
 			tasks: [
 				{
 					id: "3ABB4181FEA31D22"
@@ -986,19 +986,19 @@
 					type: "item"
 				}
 			]
-			title: "石英"
+			title: "{ftbquests.chapter.77C762813215SADD.quest32.title}"
 			x: 7.0d
 			y: -2.0d
 		}
 		{
 			description: [
-				"你可能在到达这里之前已经有很多铁了,但不要忽视这个矿脉的效用."
+				"{ftbquests.chapter.77C762813215SADD.quest33.description1}"
 				""
-				"铬铁矿是铬的一个极好的来源,钒在后期需求量更大."
+				"{ftbquests.chapter.77C762813215SADD.quest33.description2}"
 			]
 			icon: "gtceu:endstone_magnetite_ore"
 			id: "4FC668EF2BF294ED"
-			subtitle: "铁、钒、金、铬的来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest33.subtitle}"
 			tasks: [
 				{
 					id: "221E6D04EBEC9DDE"
@@ -1021,19 +1021,19 @@
 					type: "item"
 				}
 			]
-			title: "磁铁矿"
+			title: "{ftbquests.chapter.77C762813215SADD.quest33.title}"
 			x: 8.0d
 			y: 1.5d
 		}
 		{
 			description: [
-				"来自《星际之门》的&2硅岩&r!从&dLuV&r开始,你会发现这成为一个重要的材料."
+				"{ftbquests.chapter.77C762813215SADD.quest34.description1}"
 				""
-				"硅岩可以在&dLuV&r中加工成钛、三钛、钡、镓、铟、磷、富集硅岩和超能硅岩.非常多用途!"
+				"{ftbquests.chapter.77C762813215SADD.quest34.description2}"
 			]
 			icon: "gtceu:endstone_naquadah_ore"
 			id: "143B1AE1F3CF53EF"
-			subtitle: "源泉石,含有很多矿物"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest34.subtitle}"
 			tasks: [
 				{
 					id: "310ED3BE9C7FD9E2"
@@ -1046,19 +1046,19 @@
 					type: "item"
 				}
 			]
-			title: "硅岩"
+			title: "{ftbquests.chapter.77C762813215SADD.quest34.title}"
 			x: 10.0d
 			y: 1.5d
 		}
 		{
 			description: [
-				"铂开始在&5EV&r中看到使用."
+				"{ftbquests.chapter.77C762813215SADD.quest35.description1}"
 				""
-				"铂系金属在&1IV&r中成为必要条件,谢尔顿是启动加工的最佳矿石."
+				"{ftbquests.chapter.77C762813215SADD.quest35.description2}"
 			]
 			icon: "gtceu:endstone_cooperite_ore"
 			id: "4D76C334B251EB3A"
-			subtitle: "包含很多矿物"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest35.subtitle}"
 			tasks: [
 				{
 					id: "4547E85950CB15E4"
@@ -1081,19 +1081,19 @@
 					type: "item"
 				}
 			]
-			title: "谢尔顿"
+			title: "{ftbquests.chapter.77C762813215SADD.quest35.title}"
 			x: 8.0d
 			y: 4.5d
 		}
 		{
 			description: [
-				"你唯一的&9钨&r来源!虽然你理论上可以从&e末地石&r中粉碎获得钨酸盐,但收益微不足道.相反,加工这些矿石!"
+				"{ftbquests.chapter.77C762813215SADD.quest36.description1}"
 				""
-				"这是一个非常重要的矿脉,因为&9钨&r在&9IV&r及其以后的阶段中被大量使用."
+				"{ftbquests.chapter.77C762813215SADD.quest36.description2}"
 			]
 			icon: "gtceu:endstone_scheelite_ore"
 			id: "5AA98D1298FD90BA"
-			subtitle: "钨、锂的来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest36.subtitle}"
 			tasks: [
 				{
 					id: "30446661E519BD77"
@@ -1111,19 +1111,19 @@
 					type: "item"
 				}
 			]
-			title: "白钨矿"
+			title: "{ftbquests.chapter.77C762813215SADD.quest36.title}"
 			x: 10.0d
 			y: 4.5d
 		}
 		{
 			description: [
-				"如果你是一个适应良好的人,那么采矿&b铝&r和&d钛&r的矿脉就在这儿."
+				"{ftbquests.chapter.77C762813215SADD.quest37.description1}"
 				""
-				"放弃那些云母矿——铝土矿才是未来!"
+				"{ftbquests.chapter.77C762813215SADD.quest37.description2}"
 			]
 			icon: "gtceu:endstone_bauxite_ore"
 			id: "40B40DF0D1295A90"
-			subtitle: "铝、钛、镓的来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest37.subtitle}"
 			tasks: [
 				{
 					id: "165615C81FEAE3C3"
@@ -1141,15 +1141,15 @@
 					type: "item"
 				}
 			]
-			title: "铝土矿"
+			title: "{ftbquests.chapter.77C762813215SADD.quest37.title}"
 			x: 7.0d
 			y: 3.0d
 		}
 		{
-			description: ["铀的唯一矿脉!"]
+			description: ["{ftbquests.chapter.77C762813215SADD.quest38.description1}"]
 			icon: "gtceu:endstone_pitchblende_ore"
 			id: "5ED483A04095EFA3"
-			subtitle: "铀、钍、铅的来源"
+			subtitle: "{ftbquests.chapter.77C762813215SADD.quest38.subtitle}"
 			tasks: [
 				{
 					id: "6174FF347A1D09AE"
@@ -1162,7 +1162,7 @@
 					type: "item"
 				}
 			]
-			title: "铀矿石"
+			title: "{ftbquests.chapter.77C762813215SADD.quest38.title}"
 			x: 11.0d
 			y: 3.0d
 		}
@@ -1171,7 +1171,7 @@
 			id: "36F2CA6E24DE74E1"
 			tasks: [{
 				id: "377042ABB6567FBD"
-				title: "想去地狱，先到EV"
+				title: "{ftbquests.chapter.77C762813215SADD.quest39.task_3994766174743592893.title}"
 				type: "checkmark"
 			}]
 			x: 9.0d
@@ -1182,12 +1182,12 @@
 			id: "71DEF0909984EE63"
 			tasks: [{
 				id: "6F190A09C2230BC7"
-				title: "想去末地，先到LUV"
+				title: "{ftbquests.chapter.77C762813215SADD.quest40.task_8005440849655827399.title}"
 				type: "checkmark"
 			}]
 			x: 9.0d
 			y: 3.0d
 		}
 	]
-	title: "矿石生成"
+	title: "{ftbquests.chapter.77C762813215SADD.title}"
 }

@@ -55,7 +55,7 @@
 				"55458BD1EFC248C8"
 				"687FA1A8A6443436"
 			]
-			description: ["星辰之力"]
+			description: ["{ftbquests.chapter.23041C2CD2A7311B.quest3.description1}"]
 			id: "7B46E8DE77D0BE8F"
 			tasks: [{
 				id: "73B1CA578DA24E93"
@@ -84,7 +84,7 @@
 				"5E223597F71DB81D"
 				"4A1F4AAAABC1DE23"
 			]
-			description: ["高纯龙素"]
+			description: ["{ftbquests.chapter.23041C2CD2A7311B.quest5.description1}"]
 			id: "6A1F7D407BE033A9"
 			tasks: [{
 				id: "65FF8A6173E91F9E"
@@ -99,7 +99,7 @@
 				"6A1F7D407BE033A9"
 				"6E3F07B3E9AB5882"
 			]
-			description: ["龙之力量"]
+			description: ["{ftbquests.chapter.23041C2CD2A7311B.quest6.description1}"]
 			id: "108792B10FDEC848"
 			tasks: [{
 				id: "73F908E584D4518A"
@@ -208,7 +208,7 @@
 				"7843B0B9DF3F6FB3"
 				"1BA07BC3DBFFF3E6"
 			]
-			description: ["利用虫洞，准确地在问题提出的时刻开始计算，以便在问题被问出时得到答案。"]
+			description: ["{ftbquests.chapter.23041C2CD2A7311B.quest14.description1}"]
 			id: "2895FBB66750C0DF"
 			tasks: [{
 				id: "5D7AD7E0AEDFAC06"
@@ -254,7 +254,7 @@
 			id: "55458BD1EFC248C8"
 			tasks: [{
 				id: "34A01704D8875A2F"
-				title: "自由质子"
+				title: "{ftbquests.chapter.23041C2CD2A7311B.quest17.task_3792056195826014767.title}"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -277,7 +277,7 @@
 			id: "6FF53B92BA6D2370"
 			tasks: [{
 				id: "3A5F5C774EE47FD2"
-				title: "星能液"
+				title: "{ftbquests.chapter.23041C2CD2A7311B.quest19.task_4206182244481794002.title}"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -394,7 +394,7 @@
 		}
 		{
 			dependencies: ["559836CC234447C0"]
-			description: ["需被动自动化"]
+			description: ["{ftbquests.chapter.23041C2CD2A7311B.quest29.description1}"]
 			hide_dependency_lines: true
 			id: "4A1F4AAAABC1DE23"
 			shape: "gear"
@@ -408,12 +408,12 @@
 		}
 		{
 			dependencies: ["2A29DA4239E6BA44"]
-			description: ["有点混乱"]
+			description: ["{ftbquests.chapter.23041C2CD2A7311B.quest30.description1}"]
 			icon: "gtceu:radox_bucket"
 			id: "437E5E4108228333"
 			tasks: [{
 				id: "60C93B3E6EDB5E0B"
-				title: "拉多X"
+				title: "{ftbquests.chapter.23041C2CD2A7311B.quest30.task_6974170637293805067.title}"
 				type: "checkmark"
 			}]
 			x: 6.0d
@@ -421,7 +421,7 @@
 		}
 		{
 			dependencies: ["6C6A3B91957A0B7B"]
-			description: ["很贵的机器"]
+			description: ["{ftbquests.chapter.23041C2CD2A7311B.quest31.description1}"]
 			id: "2A29DA4239E6BA44"
 			shape: "gear"
 			size: 1.0d
@@ -479,7 +479,7 @@
 				"1291AD37204E4960"
 				"38FFB6D2003C7EB4"
 			]
-			description: ["电路的顶点"]
+			description: ["{ftbquests.chapter.23041C2CD2A7311B.quest35.description1}"]
 			id: "32186EFF7020D432"
 			shape: "diamond"
 			size: 2.0d
@@ -546,7 +546,7 @@
 				"5A61ABB6E4917C6C"
 				"0ED237B0CE3DDF59"
 			]
-			description: ["无尽之力"]
+			description: ["{ftbquests.chapter.23041C2CD2A7311B.quest40.description1}"]
 			id: "00A227F06D7F109E"
 			shape: "rsquare"
 			size: 2.0d
@@ -665,6 +665,6 @@
 			y: -8.0d
 		}
 	]
-	subtitle: ["Tier12-UXV"]
-	title: "极顶压"
+	subtitle: ["{ftbquests.chapter.23041C2CD2A7311B.subtitle0}"]
+	title: "{ftbquests.chapter.23041C2CD2A7311B.title}"
 }

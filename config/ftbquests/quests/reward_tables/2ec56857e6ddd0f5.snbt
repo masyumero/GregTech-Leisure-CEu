@@ -20,5 +20,5 @@
 		{ count: 64, item: "minecraft:magenta_dye" }
 		{ count: 64, item: "minecraft:pink_dye" }
 	]
-	title: "多彩世界"
+	title: "{ftbquests.loot_table_3370214622901424373.title}"
 }

@@ -15,7 +15,7 @@ rm -rf packtmp/ || true
 
 echoerr packtmpディレクトリを構築
 mkdir packtmp/
-cp -r LICENSE modlist.html README.md packtmp/
+cp -r README.md packtmp/
 
 echoerr packtmp/modrinth.index.jsonを構築
 PACK_VERSION=$(node -e "

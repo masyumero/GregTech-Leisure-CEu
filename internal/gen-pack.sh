@@ -21,7 +21,7 @@ echoerr packtmp/modrinth.index.jsonを構築
 PACK_VERSION=$(node -e "
 const fs = require('fs');
 const manifest = JSON.parse(fs.readFileSync('modrinth.index.json', 'utf8'));
-console.log(manifest.versionID);
+console.log(manifest.versionId);
 ")
 cp modrinth.index.json packtmp/
 

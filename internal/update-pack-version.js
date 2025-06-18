@@ -17,7 +17,7 @@ if (!['major', 'minor', 'patch'].includes(versionType)) {
 const manifest = fs.readFileSync('modrinth.index.json', 'utf8');
 const json = JSON.parse(manifest);
 /** @type {string} */
-const currentVersion = json.version;
+const currentVersion = json.versionId;
 let {prefix, major, minor, patch} = utils.parseVersion(currentVersion);
 console.error(`現在のバージョン: ${prefix}${major}.${minor}.${patch}`);
 
@@ -38,7 +38,7 @@ if (versionType == 'major') {
 }
 const newVersion = `${prefix}${major}.${minor}.${patch}`;
 
-json.version = newVersion;
+json.versionId = newVersion;
 fs.writeFileSync('modrinth.index.json', JSON.stringify(json));
 
 console.log(`new_version=${newVersion}`);

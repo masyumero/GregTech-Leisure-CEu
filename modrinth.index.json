@@ -443,19 +443,6 @@
       "fileSize": 15399555
     },
     {
-      "path": "mods/I18nUpdateMod-3.6.2-all.jar",
-      "hashes": {
-        "sha1": "60c831f5f137e5591dd56d81f21f500339f69d2a",
-        "sha512": "6625efc9c85ad0bd861d03e1e4591ae1968d27dd98d19b67884e196e6a87bc9632a435fbce6cff1706420912e07975d4e0b4f6af9e52ca40d2390caf19aecb89"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/PWERr14M/versions/23iTpHt8/I18nUpdateMod-3.6.2-all.jar",
-        "https://media.forgecdn.net/files/6351/71/I18nUpdateMod-3.6.2-all.jar",
-        "https://edge.forgecdn.net/files/6351/71/I18nUpdateMod-3.6.2-all.jar"
-      ],
-      "fileSize": 45560
-    },
-    {
       "path": "mods/inventoryessentials-forge-1.20.1-8.2.7.jar",
       "hashes": {
         "sha1": "bb25a09a4a01682cec6760e57b2dd6033fde0cf6",

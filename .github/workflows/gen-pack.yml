@@ -1,0 +1,34 @@
+name: "自動: 最新版をArtifactsに出力"
+
+on:
+  workflow_dispatch:
+  push:
+  pull_request:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: リポジトリをチェックアウト
+      uses: actions/checkout@v4
+
+    - name: パックを生成
+      id: gen-pack
+      run: |
+        echo "pack_file_name=$(./internal/gen-pack.sh)" | tee -a $GITHUB_OUTPUT
+      shell: bash
+    
+    - name: パックを解凍
+      run: |
+        cd pack
+        unzip ${{ steps.gen-pack.outputs.pack_file_name }}.zip -d ${{ steps.gen-pack.outputs.pack_file_name }}
+      shell: bash
+
+    - name: Artifactsにアップロード
+      uses: actions/upload-artifact@v4
+      with:
+        name: ${{ steps.gen-pack.outputs.pack_file_name }}
+        path: pack/${{ steps.gen-pack.outputs.pack_file_name }}/
+    
+    

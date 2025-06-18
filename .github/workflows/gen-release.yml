@@ -1,0 +1,93 @@
+name: "手動: バージョンを更新しリリース"
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        type: choice
+        description: 'アップデートタイプ'
+        required: true
+        options:
+          - patch
+          - minor
+          - major
+          - none
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    permissions:
+      # actions: write
+      contents: write
+
+    steps:
+    - name: nodeをセットアップ
+      uses: actions/setup-node@v4
+      with:
+        node-version: 20
+    
+    - name: リポジトリをチェックアウト
+      uses: actions/checkout@v4
+    
+    - name: Commiter等を設定
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git config --global push.followTags true
+    
+    - name: バージョンを書き換え
+      id: update-version
+      if: ${{ github.event.inputs.tag != 'none' }}
+      run: |
+        node internal/update-pack-version.js ${{ github.event.inputs.tag }} | tee -a $GITHUB_OUTPUT
+      shell: bash
+    
+    - name: コミットしタグ付きでプッシュ
+      if: ${{ github.event.inputs.tag != 'none' }}
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git add modrinth.index.json
+        git commit -m 'パックバージョンを${{ steps.update-version.outputs.new_version }}に更新'
+        git tag -a ${{ steps.update-version.outputs.new_version }} -m 'パックバージョン${{ steps.update-version.outputs.new_version }}'
+        git push
+    
+    - name: バージョンを取得
+      id: get-version
+      if: ${{ github.event.inputs.tag == 'none' }}
+      run: |
+        node internal/get-pack-version.js | tee -a $GITHUB_OUTPUT
+      shell: bash
+    
+    - name: タグを作成しプッシュ
+      if: ${{ github.event.inputs.tag == 'none' }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git tag -a ${{ steps.get-version.outputs.version }} -m 'パックバージョン${{ steps.get-version.outputs.version }}'
+        git push
+    
+    - name: パックを生成
+      id: gen-pack
+      run: |
+        echo "pack_file_name=$(./internal/gen-pack.sh)" | tee -a $GITHUB_OUTPUT
+      shell: bash
+    
+    - name: パックを解凍
+      run: |
+        cd pack
+        unzip ${{ steps.gen-pack.outputs.pack_file_name }}.zip -d ${{ steps.gen-pack.outputs.pack_file_name }}
+      shell: bash
+    
+    - name: Artifactsにアップロード
+      uses: actions/upload-artifact@v4
+      with:
+        name: ${{ steps.gen-pack.outputs.pack_file_name }}
+        path: pack/${{ steps.gen-pack.outputs.pack_file_name }}/
+    
+    - name: リリースを作成
+      uses: softprops/action-gh-release@v2
+      with:
+        tag_name: ${{ steps.update-version.outputs.new_version || steps.get-version.outputs.version }}
+        generate_release_notes: false
+        files: pack/*.zip

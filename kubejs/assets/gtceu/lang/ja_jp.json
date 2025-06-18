@@ -1649,5 +1649,17 @@
     "gtlcore.machine.wireless_data_receiver_hatch.unbind": "アンバウンドワイヤレス光学データソースウェアハウス。",
     "gtlcore.space_cosmic_probe_receivers": "宇宙ベースの宇宙探査",
     "gtlcore.top.electricity": "%sの%",
-    "gtlcore.top.extra_output": "残りの%Sアイテムの繰り返し出力が非表示になります"
+    "gtlcore.top.extra_output": "残りの%Sアイテムの繰り返し出力が非表示になります",
+    "gtceu.em_resonance_conversion_field": "EM共鳴変換フィールド",
+    "gtceu.photon_matrix_etch": "フォトンマトリックス・エッチ",
+    "gtceu.tectonic_fault_generator": "テクトニックフォールト・ジェネレーター",
+    "gtceu.biological_simulation": "生体シミュレーション",
+    "gtceu.voidflux_reaction": "ヴォイドフラックス反応",
+    "gtceu.stellar_lgnition": "恒星点火",
+    "gtceu.chaotic_alchemy": "カオス錬金術",
+    "gtceu.antientropy_condensation": "反エントロピー凝縮",
+    "gtceu.molecular_deconstruction": "分子分解",
+    "gtceu.universe_sandbox": "ユニバース・サンドボックス",
+    "gtceu.multiblock.cleanroom": "クリーンルーム階層: %s",
+    "gtceu.multiblock.gravity": "重力: %s"
 }

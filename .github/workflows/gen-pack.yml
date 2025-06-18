@@ -22,7 +22,7 @@ jobs:
     - name: パックを解凍
       run: |
         cd pack
-        unzip ${{ steps.gen-pack.outputs.pack_file_name }}.zip -d ${{ steps.gen-pack.outputs.pack_file_name }}
+        unzip ${{ steps.gen-pack.outputs.pack_file_name }}..mrpack -d ${{ steps.gen-pack.outputs.pack_file_name }}
       shell: bash
 
     - name: Artifactsにアップロード

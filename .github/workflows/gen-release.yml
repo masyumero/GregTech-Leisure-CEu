@@ -76,7 +76,7 @@ jobs:
     - name: パックを解凍
       run: |
         cd pack
-        unzip ${{ steps.gen-pack.outputs.pack_file_name }}.zip -d ${{ steps.gen-pack.outputs.pack_file_name }}
+        unzip ${{ steps.gen-pack.outputs.pack_file_name }}..mrpack -d ${{ steps.gen-pack.outputs.pack_file_name }}
       shell: bash
     
     - name: Artifactsにアップロード
@@ -90,4 +90,4 @@ jobs:
       with:
         tag_name: ${{ steps.update-version.outputs.new_version || steps.get-version.outputs.version }}
         generate_release_notes: false
-        files: pack/*.zip
+        files: pack/*..mrpack

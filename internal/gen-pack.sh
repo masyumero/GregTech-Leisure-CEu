@@ -37,7 +37,7 @@ mkdir pack/
 
 echoerr packtmpディレクトリを圧縮
 cd packtmp/
-zip -qr ../pack/$PACK_FILE_NAME-$PACK_VERSION.zip *
+zip -qr ../pack/$PACK_FILE_NAME-$PACK_VERSION.mrpack *
 
 echoerr 保存完了
 echo $PACK_FILE_NAME-$PACK_VERSION

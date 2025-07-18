@@ -12,7 +12,8 @@
         "sha512": "28427d88a1a7f2de215e76ac58a259869eb2f0e4a72d8503f2e575ca92d17f921f72ad23816e47be895112a6f4ef01d180c12b5708b3ae98707b060b170ae7e6"
       },
       "downloads": [
-        "https://mediafilez.forgecdn.net/files/4711/897/UntranslatedItems-forge-1.20.1-1.7.jar"
+        "https://mediafilez.forgecdn.net/files/4711/897/UntranslatedItems-forge-1.20.1-1.7.jar",
+        "https://edge.forgecdn.net/files/4711/897/UntranslatedItems-forge-1.20.1-1.7.jar"
       ],
       "fileSize":55155
     },
